@@ -1,14 +1,12 @@
 pluginManagement {
     repositories {
         maven {
-            name = 'Iced\'s loom maven'
-            url = 'https://maven.icedlab.tech/loom/'
-        }
-        maven {
             name = 'Fabric'
             url = 'https://maven.fabricmc.net/'
         }
-        mavenCentral()
         gradlePluginPortal()
+        mavenCentral()
     }
 }
+
+rootProject.name = 'StellarCore'
