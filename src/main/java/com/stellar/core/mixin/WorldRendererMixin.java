@@ -32,9 +32,6 @@ import java.util.HashSet;
 @Mixin(WorldRenderer.class)
 public abstract class WorldRendererMixin {
 
-    @Shadow
-    @Final
-    // // 已移除对私有类 ChunkInfo 的访问 // 由 Mixin 访问，编译时注释
 
     @Shadow
     private ClientWorld world;
