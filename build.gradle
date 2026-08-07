@@ -5,12 +5,12 @@ plugins {
 
 repositories {
     maven {
-        name = '阿里云'
-        url = 'https://maven.aliyun.com/repository/public'
-    }
-    maven {
         name = 'Fabric'
         url = 'https://maven.fabricmc.net/'
+    }
+    maven {
+        name = '阿里云'
+        url = 'https://maven.aliyun.com/repository/public'
     }
     mavenCentral()
     gradlePluginPortal()
@@ -24,10 +24,6 @@ dependencies {
     minecraft "com.mojang:minecraft:${project.minecraft_version}"
     mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
     modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
-    
-    configurations.all {
-        exclude group: 'io.netty', module: 'netty-transport-native-epoll'
-    }
 }
 
 processResources {
