@@ -1,0 +1,15 @@
+src/main/java/com/stellar/core/logic/ChunkStateManager.java
+src/main/java/com/stellar/core/logic/LazyEntityAI.java
+src/main/java/com/stellar/core/logic/LazyRedstone.java
+src/main/java/com/stellar/core/config/StellarConfig.java
+src/main/java/com/stellar/core/mixin/ParticleManagerMixin.java
+src/main/java/com/stellar/core/mixin/MobEntityMixin.java
+src/main/java/com/stellar/core/mixin/EntityRendererMixin.java
+src/main/java/com/stellar/core/mixin/RedstoneWireMixin.java
+src/main/java/com/stellar/core/mixin/ServerWorldMixin.java
+src/main/java/com/stellar/core/mixin/WorldRendererMixin.java
+src/main/java/com/stellar/core/render/ChunkRenderCache.java
+src/main/java/com/stellar/core/render/OctreeFrustumCuller.java
+src/main/java/com/stellar/core/render/DynamicLOD.java
+src/main/java/com/stellar/core/StellarCore.java
+src/main/java/com/stellar/core/StellarMixinPlugin.java

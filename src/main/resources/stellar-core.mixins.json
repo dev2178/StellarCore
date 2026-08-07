@@ -1,0 +1,26 @@
+{
+  "required": true,
+  "package": "com.stellar.core.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "plugin": "com.stellar.core.StellarMixinPlugin",
+  "mixins": [
+    "ServerWorldMixin",
+    "MobEntityMixin",
+    "RedstoneWireMixin"
+  ],
+  "client": [
+    "WorldRendererMixin",
+    "EntityRendererMixin",
+    "ParticleManagerMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "stellar-core-refmap.json",
+  "minVersion": "0.8.5",
+  "priority": 1000,
+  "overwrites": {
+    "conformVisibility": true
+  }
+}

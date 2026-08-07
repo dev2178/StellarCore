@@ -1,0 +1,2512 @@
+Signature-Version: 1.0
+Created-By: 11.0.20.1 (Ubuntu)
+SHA-256-Digest-Manifest: Rc7R+aPD48LPOg2eokLtsELvWFkzERRd3ZbR1EC/6fg=
+SHA-256-Digest-Manifest-Main-Attributes: 0PyEWZ8pgrDLcrfWBR1TfBfBkYA1cNO
+ 0wwy+z6FMytg=
+
+Name: net/fabricmc/loader/impl/util/version/VersionParser.class
+SHA-256-Digest: C6s3rAjtYgUCgEIyG7Oi8MkYXuX+FGTwX+8m/XMP82M=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$Analyzer.c
+ lass
+SHA-256-Digest: YF6P19+uw4+29O/eV9zIH7wvmETl0nNWYRB9APzXrB8=
+
+Name: net/fabricmc/loader/impl/game/minecraft/Slf4jLogHandler.class
+SHA-256-Digest: B1q+TAdcoFq0M2xrrj4A7BRunup/3GywCjHBqqYZaAM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ILits.class
+SHA-256-Digest: a0XFtvDlg422rpv1JTP5YkmfSrxMHDwPRejiJFIDK04=
+
+Name: net/fabricmc/loader/api/metadata/ModOrigin$Kind.class
+SHA-256-Digest: 7LXqDXArhdpCbeq+NAHPs+pZI6Ospgsd3E68eTHgyIY=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/DependencyHelper$Negat
+ ion.class
+SHA-256-Digest: I/WBINhykreLhGNxPKkNS28VqLSBtjDD5ZL8hzIFk3s=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/card/MinWat
+ chCard.class
+SHA-256-Digest: kuJI6CGs2rDBJfdhEJF/4T5zNC27Z2X8XIQOIABOXq0=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$MethodCons
+ tantVisitor$1.class
+SHA-256-Digest: 6SWhVEzx5y8JlPESjqLBws20LX4K9yD+ENJaXoLE+Vg=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionComparisonOperator
+ $6.class
+SHA-256-Digest: 0Bpb7uoZgoj7dm6gXtaCpPOHsPF5n00qnw61kytkbU4=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/xplain/DeletionStrategy.c
+ lass
+SHA-256-Digest: gnXaPFsPTUAxsXxKQeBszVPDnVn3svpoFyw6gGYRU8o=
+
+Name: net/fabricmc/loader/language/LanguageAdapterException.class
+SHA-256-Digest: QeWZ9CwbRhyhT4TWg0ebU+7ndOGZmu62j4U2+dvjXUw=
+
+Name: net/fabricmc/loader/impl/game/minecraft/Slf4jLogHandler$1.class
+SHA-256-Digest: 9qOOQX9oQdO4s6S1SiRklupW8CiJTDTHp+IiDlTYdVE=
+
+Name: META-INF/jars/mixinextras-fabric-0.3.5.jar
+SHA-256-Digest: Z/P/J7hKf/KSrCbNagxmGanomXELmlMxsYa5DoM+TKk=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/WrapOperationAnnotationVisitor.class
+SHA-256-Digest: 3AgJk78WB179F1HmykHxOzZTMWFV6NdIlgTypnD9ofU=
+
+Name: net/fabricmc/loader/api/LanguageAdapter.class
+SHA-256-Digest: ahrPtV0xzcw59+2hGudZnrebFdh5fn/QKP0y7KvGHSc=
+
+Name: net/fabricmc/loader/impl/util/Localization$1.class
+SHA-256-Digest: 0d9ZPfNzbsn2Ql+U3sRMvQEsW1A50fhnwdYZ8ZtTkrU=
+
+Name: ui/icon/level_info_x16.png
+SHA-256-Digest: OXNordsI1bBqJl/IUyJJDyQxhC1hJimcV9q1cDIEWK8=
+
+Name: net/fabricmc/loader/api/Version.class
+SHA-256-Digest: +/pMq7HWBMMBQZWy6Zs2+542oJu3fpSlXT/6WSpnWXM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/AutoDivisionS
+ trategy.class
+SHA-256-Digest: X5e2lr3lowvgI94VhT/pfk2YnnldKP2t0mAB7aFFRR4=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/AsmClassRemapper$AsmAnno
+ tationRemapper.class
+SHA-256-Digest: sRlfwBg+NglqWV+YRiRrPRe1mNvTFCzzsjRgQO7e5WI=
+
+Name: ui/icon/lesser_cross_x16.png
+SHA-256-Digest: 0CTXuPXgQI5m5szfm0nmuqhgMaCu5TAcf3B47dEfp0M=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/SliceAnnotationVisitor.class
+SHA-256-Digest: pjQo/CkYSD/9pQqHEbIevy7MjVnx/e95SXXOLb3siMs=
+
+Name: net/fabricmc/loader/language/JavaLanguageAdapter.class
+SHA-256-Digest: rTBiMBnrIiNkl3zWynMaxMSaZUZmPglBdzK0LTsylYk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Pair.class
+SHA-256-Digest: glWzb4FOamZ/+3E5Px7L+3S7FO91ECCM1DAFHE5HXKE=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/R
+ esolveUtility.class
+SHA-256-Digest: NJEgDz+j+3oq9ROMR/OzGYHGixtDAyel2sXXWeBvPR4=
+
+Name: net/fabricmc/loader/impl/game/minecraft/patch/EntrypointPatchFML12
+ 5.class
+SHA-256-Digest: eGfnIzmLBttqVbSomRTU+jgJ1mv9CVQ/Uy9c7MWCv5Y=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/AbstractPBClause
+ CardConstrDataStructure.class
+SHA-256-Digest: HphOTIxHxxilf8l+Awejzd9sxywFZsPUqxHqMhBEiAM=
+
+Name: ui/icon/java_class_x16.png
+SHA-256-Digest: S4U41nj+devoqE1VzZEEzlYvExr7K5JH6MhhnC92Y+c=
+
+Name: ui/icon/decoration/fabric_x8.png
+SHA-256-Digest: fbAsdTzd0/UDqpK4rYg1jre04QpEtLH/17k3QDPDZaE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/OptToPBSATAdapter.class
+SHA-256-Digest: DPY/4K38xm7HQfi5ZR68FhdrzJwjjETWDI9rAtnpu/E=
+
+Name: net/fabricmc/loader/impl/FabricLoaderImpl$1.class
+SHA-256-Digest: KuGOxjL/hF5DT8GwlJQe3P001pttw68A75mOHN7C0SE=
+
+Name: net/fabricmc/loader/impl/FabricLoaderImpl.class
+SHA-256-Digest: fze7cqHDwyXGsnuFHxdncbshRuMl1x+WHeRQ07nKPbM=
+
+Name: net/fabricmc/loader/impl/gui/FabricStatusTree$FabricStatusButton.c
+ lass
+SHA-256-Digest: AEtgPB/lznsqMWjGFQ+2TwsaskuRVmD5Qap4nVF7/Wc=
+
+Name: net/fabricmc/loader/impl/launch/knot/DummyClassLoader.class
+SHA-256-Digest: Pk1dhDOPpRF8XLsAxGH6FT8xR5zt9m/7EB9wYPAG3Kw=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/api/TrRemapper.class
+SHA-256-Digest: sTjqhyXGQOBU8Qy1AIQg2osfuyJldr9twhgvrLf/5yY=
+
+Name: net/fabricmc/loader/impl/discovery/ModDiscoverer$ModScanTask.class
+SHA-256-Digest: 7FAkHS5u+opYXKMdT6M2UpRqyLeLudZfwjqXKgo6rZM=
+
+Name: net/fabricmc/loader/impl/util/UrlConversionException.class
+SHA-256-Digest: L73Bu8+7byZ77RjCPgZmwcS0qjKjTmefYJbAiTmO0bw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/Origina
+ lHTClause.class
+SHA-256-Digest: 3q+akXaDZ/FMO71rKOW1ut3VeXyMN1lZVzBQR/vzoSg=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/ModifyExpressionValueAnnotationVisitor.class
+SHA-256-Digest: 953HjvF3nksaUP2a/AHGgjEhlJAysXP7qrcW/InH6z8=
+
+Name: net/fabricmc/loader/impl/metadata/V0ModMetadata$1.class
+SHA-256-Digest: hRSiR6ceLiHWBGA9hQ8atYpYpMFcgsta8+milO8F83Y=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/Sof
+ tTargetMixinClassVisitor.class
+SHA-256-Digest: a6Hlh+F/JSyfOdn2tnBmYzwzRk4lGldvZTtvGzekv6A=
+
+Name: net/fabricmc/loader/api/metadata/ModDependency$Kind.class
+SHA-256-Digest: amS9OArYq7jwAD9UIrZ0Cdn0NxSAzzs1dIXl6lj/Ap0=
+
+Name: net/fabricmc/api/Environment.class
+SHA-256-Digest: wgMPW6h1KbzrPyqeephyhi1qfTX4iYqOc3XCsCuKYmY=
+
+Name: assets/fabricloader/icon.png
+SHA-256-Digest: JxhyGbmjiPVcjt30L0J6/3Lt0nj6+Hp/py2fDMITEaA=
+
+Name: net/fabricmc/loader/impl/transformer/FabricTransformer.class
+SHA-256-Digest: yQQqietJTvRrA0kQGA6egPys7508E1Jn2jGfLUDXOLk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/RandomAccessModel.class
+SHA-256-Digest: Covn93QC8hDsDqvqaOsDwmj2EYr4Q/h5aga3GV0dIMc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/DependencyHelper.class
+SHA-256-Digest: Vpk6KnVdGe10EFURnB/wLiCkmIoIgVCy+3VuBgENFkI=
+
+Name: ui/icon/package_x16.png
+SHA-256-Digest: Uw+yABwZjkBRLN/8CTKI1z4HiQvx0QmDzTDVF0PgAK0=
+
+Name: net/fabricmc/loader/impl/gui/FabricStatusTree$FabricStatusNode.cla
+ ss
+SHA-256-Digest: jomT+xfehQpaf91wKGijh95PNhElgxoCLn2P7ptVmZ8=
+
+Name: net/fabricmc/loader/impl/metadata/ModMetadataParser.class
+SHA-256-Digest: ZAraC0iDJi45x4ufXU5NMkyFs6oYZRHI3u5LF9lIw8c=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/CompetResolution
+ PBLongMixedWLClauseCardConstrDataStructure.class
+SHA-256-Digest: k9AJotrxbjF3WIdK+n8ebDSmv0QiPHHVYtbYRzLXFTo=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/DescAnnotationVisitor$1.class
+SHA-256-Digest: BClb5LfMvbPfbYJqVJTrT6XY6WF0emb7FkgVpyBz6ts=
+
+Name: net/fabricmc/loader/impl/launch/knot/MixinContainerHandleMod.class
+SHA-256-Digest: N1rARR/L8/5ygtY/H5FQBVzLgAtyvR5bfVAxAGx++bI=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/ModifyConstantAnnotationVisitor.class
+SHA-256-Digest: YeARMm6aDZss0f5MnSBWnImSWmwUnYBYOWLpGOMmzdI=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionComparisonOperator
+ $1.class
+SHA-256-Digest: 7DZGazZXjce17z0Ke8KHeF03eNXxFJI6Oma0OGAbGEM=
+
+Name: ui/icon/file_x16.png
+SHA-256-Digest: 5/BUhK1GJqNvVqF0AAYH07G9MnR2kL2YOnn7UVeGPcg=
+
+Name: net/fabricmc/loader/util/DefaultLanguageAdapter.class
+SHA-256-Digest: yOcQm6VeQ02I9Aweb7uxAtAAIvA0N+3mt0HYCItxgf0=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/RedirectAnnotationVisitor.class
+SHA-256-Digest: iMzEPYoCSGrUlJolBBIyGx98Ny1giAYfGy3pmqXlbpI=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/ImplementsAnnotationVisitor$1.class
+SHA-256-Digest: VeDY8F0hpx2A7l8zP/rH9UuppVkwh8g95gpKs95/DWQ=
+
+Name: net/fabricmc/loader/impl/util/LoaderUtil.class
+SHA-256-Digest: KsQ4z7Qk2vb5P8PVZVRebeEAVuOIf+Je+8UJIaJn25s=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/format/tiny/Tiny2Util.class
+SHA-256-Digest: JEjqF0Mmi+eAHd+Um4Nx1Mg0Yu0vmxjbOf7FE4bhmwI=
+
+Name: net/fabricmc/loader/impl/gui/FabricStatusTree$FabricTreeWarningLev
+ el.class
+SHA-256-Digest: NUz9XuH+Mq3ea+rmGT+ApJdo1qWR517RZO9FT9TfI3A=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/uti
+ l/ConvertibleMappable.class
+SHA-256-Digest: QyrtUaLAgCgpem4s+iwwacuLKrlf+UeQzs4zBLEeDOg=
+
+Name: net/fabricmc/loader/impl/transformer/EnvironmentStrippingData$1$1.
+ class
+SHA-256-Digest: 32CmOaPblCbfLPDSeNUhGA2qPYxxALP1VTFaksQCn2Y=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/MixinAnnotationVisitor$MixinSecondPassAnnotationVisitor.class
+SHA-256-Digest: KqyMEgAh3buUxZixWB0PvYCIydgWg5/9/V0dOG9mM/8=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Learner.class
+SHA-256-Digest: YRb2n23djOJm5ZOvtOTDzPGa+XWxJuLmCg4+WftMCKs=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/AtAnnotationVisitor$AtSecondPassAnnotationVisitor.cla
+ ss
+SHA-256-Digest: h033G7WRQkVuo5ycqH0sc6QjgfpeLjazzOFzm9lZm+g=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClassDelegate$1.class
+SHA-256-Digest: J3s7aVpeke27sEpdk/v6IrY48F2asvrXcFFWgzCl7yg=
+
+Name: LICENSE_fabric-loader
+SHA-256-Digest: qDCZO7+OIFiyFCla0TPuviQ8AwTRyrnrBPnvIQb9J4g=
+
+Name: net/fabricmc/loader/impl/game/minecraft/MinecraftGameProvider$1.cl
+ ass
+SHA-256-Digest: HlJlePnKsjL2EQTsGewQk/rue8RpuZlN/0CB1vOZmqk=
+
+Name: net/fabricmc/loader/launch/FabricServerTweaker.class
+SHA-256-Digest: zxhU2upoqmpVyfn50o+HMypdzoonTI6hcvM0/9fhpmI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/AgeLCDS.class
+SHA-256-Digest: Sq2vq7AtT2cpVo90uCgIpBBZIs0/Glog2cc9enVuDyI=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionPredicate.class
+SHA-256-Digest: zuDYu58LhsCeZ83RCx9sbRS5D3CG2IUt9j/2fxZHqxc=
+
+Name: net/fabricmc/loader/impl/transformer/PackageAccessFixer.class
+SHA-256-Digest: TDIB+QhKUxgJ9sb1WA8NzN0LSGESYOgWSKiOSZd9Tiw=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$OptionalDepVar.class
+SHA-256-Digest: VQsleolIt2GVH8W7OJz6ofzFJb+MOUBzJXzMeZ463qs=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/core/PBDataStructureFactory.
+ class
+SHA-256-Digest: y+hAv6ciAAkCiat+py3Kw2ee6RgguY37EDMAJJYbGEA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/PBConstr.clas
+ s
+SHA-256-Digest: 8rv13rzS4kyxM9s2HeNJTh6a7ZkEJJbr81wzyC30+Rg=
+
+Name: ui/icon/tick_x16.png
+SHA-256-Digest: nWEZCH1lKY4qkPmtSjwZDt1ymrpVgstWOqPWWfn/oFU=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/InternalMapPB
+ Structure.class
+SHA-256-Digest: T2+k0lAysMG57fHXYxMjzd0S2tNCZynRc94vvCT54E0=
+
+Name: net/fabricmc/loader/api/SemanticVersion.class
+SHA-256-Digest: Ah9we92jEQeS6XEV6jA5P7V4D2kRuUABmQKl7YPTbIg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/orders/VariableComparat
+ or.class
+SHA-256-Digest: N1M8tApl+0+m6j3Nz0NEN1sgoSU74sAhSxD4FJVJ3N8=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$FieldStrin
+ gConstantVisitor$1.class
+SHA-256-Digest: ZiDDY94gjaLZ2yvgq93BrUISxKp+7WkRhAmGoxCMhWQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Solver$7.class
+SHA-256-Digest: eC5JExAbw51qdXimFeCZ2ocBvjw1AG82DCxa9an2QJw=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/VisitTrackingClassRemapp
+ er$VisitKind.class
+SHA-256-Digest: 6PIOibtqiIkFz7pMbg9VKei/Tv39VgVTj1kO5D+ys1w=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/OutputConsumerPath.class
+SHA-256-Digest: UL53sELDsbId2GaYJ5FYEBGc6F0Hllt8+/lER5M3+Ns=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/about-sat4j.html
+SHA-256-Digest: VEnXE19+rswWsE+vxI67nnfbWdTFUv/SlDfMrfq6N1g=
+
+Name: net/fabricmc/api/EnvType.class
+SHA-256-Digest: retNDuXW2GxUWJKR+2Rwj7cuJGBVm5YCqQ3GSRMKXH8=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$MethodCons
+ tantRetVisitor.class
+SHA-256-Digest: o2AbwRyXyeqRcls+mtJLxvQpcnOzlbwXWihQ+nfcPvw=
+
+Name: net/fabricmc/loader/impl/discovery/ModCandidateFinder.class
+SHA-256-Digest: cdx7SAHVk4o1HbF2R9i6BV33aHI4Ugg57lJez1Tw0V8=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/Origina
+ lWLClause.class
+SHA-256-Digest: FD1KCxR3T7OKdUoU7MSx84HvF0RZBu5/mXZzQqoQyKE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/WatchPbLong$1
+ .class
+SHA-256-Digest: pOEb4Qp0A1ahtGHBYxipih166INlIO3otM63NbborIE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/LBDConflictTimer.c
+ lass
+SHA-256-Digest: g4CpkRb1OE/+8iocLi2aCsGpGM3s0Vmtm2kozAHvrNI=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/format/tiny/Tiny2FileReader
+ .class
+SHA-256-Digest: UPQfNARp3otbvOkgIJPVB9BjL+xTZHvTS3vAnAraBkk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/OriginalHTCla
+ usePB.class
+SHA-256-Digest: bGhGPaBNVlFRcNYNSPtWl85MdkjFMJM+KIp7cnW1wCs=
+
+Name: net/fabricmc/loader/impl/transformer/ClassStripper.class
+SHA-256-Digest: ex5KqcCAtx1RItRMcFqooi13IhBO4pPJ6F3hbvx3lgc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/VarActivityListene
+ r.class
+SHA-256-Digest: SBTSZNAm7EZ/0i0IFdQ7Z2SPhOItgZ1XG3PevG7RW4o=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/ModifyReturnValueAnnotationVisitor.class
+SHA-256-Digest: HrNyQ/vlqlBoAOIe0U5tDuYC+Rh4zORaTwUKyXpqC4g=
+
+Name: net/fabricmc/loader/impl/lib/gson/JsonToken.class
+SHA-256-Digest: H33Pgx9w1IUjYB2mO4PRPJ9zeGgT8qgtu8JjlT4Vkjw=
+
+Name: net/fabricmc/loader/impl/lib/gson/MalformedJsonException.class
+SHA-256-Digest: R3o08VR5Pt3v3rSwvyntF/avQyfY9cr1td/vVBiAkkU=
+
+Name: net/fabricmc/loader/impl/game/minecraft/applet/AppletMain.class
+SHA-256-Digest: E2CYnSUnzhbJYmTnSXAnbdJvrgMIvwci7eZfgAR8ms0=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadata$IconEntry.class
+SHA-256-Digest: 5/kx/qsM3XL5UxNmVnYSKXEDmw/uPFk+Dra4Wgzhy9E=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$FieldTypeC
+ aptureVisitor.class
+SHA-256-Digest: kEPQFgkHfq8jDR/G5azskeHkILF3hpW+/CgvOMlVckI=
+
+Name: net/fabricmc/loader/impl/launch/FabricMixinBootstrap$MixinConfigDe
+ corator.class
+SHA-256-Digest: hvkXELXv3LyQPLtmEv5bw50iG7lgo1WzzATBrcK5UZ8=
+
+Name: net/fabricmc/loader/impl/discovery/DomainObject$Mod.class
+SHA-256-Digest: rSXgk6gJVde+0XAv8j/oWqs7XNt4xlihxOZSB3d9Q18=
+
+Name: net/fabricmc/loader/impl/game/minecraft/patch/ModClassLoader_125_F
+ ML.class
+SHA-256-Digest: a8Xa8u0ds4EZ//IEKVawcpjloxV4dx4q95zFJCvrDdw=
+
+Name: net/fabricmc/loader/impl/util/Localization.class
+SHA-256-Digest: YWZpJxWYBzfkN7MieUxjY94oGaAMImNj0fKWJrI37Yc=
+
+Name: net/fabricmc/loader/impl/discovery/ModCandidate$1.class
+SHA-256-Digest: 3Oma5NeLm3XnCKljgxnCKh/LSHXq7rIs7PM4jYAu4HE=
+
+Name: net/fabricmc/loader/impl/transformer/EnvironmentStrippingData.clas
+ s
+SHA-256-Digest: c0oFA0/c9UKijJsevdjuUB2nCMymXKhSYnb1IH92b2k=
+
+Name: net/fabricmc/loader/impl/discovery/ResultAnalyzer.class
+SHA-256-Digest: NXpqjkEOalkUTANDZxZbxj8Bo1iUneob6fUomnTTHqI=
+
+Name: net/fabricmc/loader/impl/lib/gson/JsonReader.class
+SHA-256-Digest: Efl0LWwxTcpkh3srq2Se3z4oFwAT6klEfyIWsnfk1/s=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/xplain/MinimizationStrate
+ gy.class
+SHA-256-Digest: 8UZsXNdTwrarN1llf5ahuz8jLlYqbY67K5zuhoulcLs=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/MixinAnnotationVisitor.class
+SHA-256-Digest: 4J5GdKjfnoXsotB3PaVTqHNe9jYq/5INUtTCEfJbdwY=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadata$JarEntry.class
+SHA-256-Digest: oQz+tSUKH0KG7yQPn/3fb6P5FM8S8wb4fLmdqQEK6YE=
+
+Name: net/fabricmc/loader/impl/discovery/ClasspathModCandidateFinder.cla
+ ss
+SHA-256-Digest: i+yw16xEMH9um/Pn/DCfnSN2K37TfbZsTwmZDL4T3Hg=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/CommonInjectionAnnotationVisitor.class
+SHA-256-Digest: ClWJbmdMq4l9422uz+LTGcPPG4PZ0sO6rFLMNFIeQXs=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerWriter.cla
+ ss
+SHA-256-Digest: WsgI0kfvME9GpXssKAd9bAGNsSfrqr93iaCVZigEJuU=
+
+Name: net/fabricmc/loader/impl/metadata/ModDependencyImpl.class
+SHA-256-Digest: Px8aGjEH7rRAB54nrLwLHjU4NXDBMJRO17S8kdtMkpc=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/api/TrField.class
+SHA-256-Digest: H0wLFpkIX/Xqdn/1vfiuecTKr0x6RTAun6KVPxFZyBU=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/dat
+ a/MemberInfo.class
+SHA-256-Digest: X3WLN+tIpYHcrxBAkec5cRlrRKB5actqE6tPt4+13Fw=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionComparisonOperator
+ $4.class
+SHA-256-Digest: +5DCdW77HFDNH2by48loWSla24OMpzy2xQqu5/SLHHc=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$InactiveReason.class
+SHA-256-Digest: h74lq7wgvT99Qz8ThBO7WYxLSzjMzBJCqC7tDxSg1Gk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/UnitClauseConsumer$1.clas
+ s
+SHA-256-Digest: uy5eQQbAXXEMx08sdm2ZeOLfcLWuChLNtxcIn8N4EMQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/UnitClauseProvider$1.clas
+ s
+SHA-256-Digest: 9KpydRGcuT0u9WuRo0UZKIk7TlgQ2a7L07pHhT9HI1Q=
+
+Name: net/fabricmc/loader/impl/metadata/V0ModMetadata$Mixins.class
+SHA-256-Digest: wooen2eVnAzo2CwWLYXBu4DzKNex8RtZl4ZQi7aRl/g=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/AbstractPBDataSt
+ ructureFactory$1.class
+SHA-256-Digest: afVG0ss4/MN09LEWHkawTQgJtd4FYguLPQXsVLwDAgo=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$2.class
+SHA-256-Digest: 9//mZu0Dv4vm2vRwU20xK/cZDHylqqs666hV9qhTrGQ=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$Elemen
+ tMappingView.class
+SHA-256-Digest: /DqT2+YMIL8Yijnfqaw5fxbWbT2lpJM7CAXqYJEYcAg=
+
+Name: net/fabricmc/loader/api/metadata/ModDependency.class
+SHA-256-Digest: J7YlGipxwBYIqxQUzh33Owv9NS26GCHnbvxD+h/A3IE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/SizeLCDS.class
+SHA-256-Digest: nA7wPDJ0amuS2iahvzhFiMiFiE2Cb4hzupSmMPSKdQo=
+
+Name: ui/icon/level_error_x16.png
+SHA-256-Digest: HXjFq+dCQsFLBCc/4KIn6GNoig5QO6e2nVREtW92AcI=
+
+Name: net/fabricmc/loader/impl/game/GameProviderHelper.class
+SHA-256-Digest: ALzdG7AdIEQ7ZtWa2GN7tyiqbbbKlyG9jVZiy5rbPpw=
+
+Name: net/fabricmc/loader/impl/game/GameProviderHelper$FindResult.class
+SHA-256-Digest: m+zqbUeRAGhmAfR+yc8SvK7eWzR4mQMD287ezpyguWg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/core/PBSolver$1.class
+SHA-256-Digest: wW0MMm/NUj7fIHE5Dum73bN+e6Mwa0xYT8rnVLjMZvQ=
+
+Name: net/fabricmc/loader/impl/discovery/ArgumentModCandidateFinder$1.cl
+ ass
+SHA-256-Digest: J1iYz+UqlOz/4rKd7TJl9IPCsjQzk65CfvnfP/Aw5+g=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClassDelegate$ClassLoader
+ Access.class
+SHA-256-Digest: vz9fj7b3NN8O1gjutu7n5m1A5bV2F0RZVnwV7GQXv4w=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/MappingReader.class
+SHA-256-Digest: 86EwfJM47jh7vtYuKk9z/Fe4+yeHSiHbDFXq/tA3Y8I=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree$FieldMappi
+ ng.class
+SHA-256-Digest: g1aMU7Q/Y5YIRlUX02NJbJQ2WVvjiGpc4OrLRCcWOFA=
+
+Name: net/fabricmc/loader/impl/metadata/ModOriginImpl.class
+SHA-256-Digest: VW37n2PJjpaA8iQmpZKKM2GE6zCRNnpT1kxobeYv7io=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Meta
+ dataEntryImpl.class
+SHA-256-Digest: 5obQLbykqhQMkU2W6TLp9vtkbh6S66dy+bvytDdiHns=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/AsmClassRemapper.class
+SHA-256-Digest: iQ8gF5cBikETEsPFAptbAwUHHX6kzWtZhM8Ie7wBsik=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/MixinExt
+ ension$AnnotationTarget.class
+SHA-256-Digest: YY1tJ5eQp/rM5dYico543fbRu0fcFcwwBDOZyF3kIBM=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/MetaInfRemover.class
+SHA-256-Digest: nk72g88lDTxeKV5Q6uldgJ+QTr0mpCZIsjnVwmy2398=
+
+Name: net/fabricmc/loader/DependencyException.class
+SHA-256-Digest: fITUy99oYtw/bhNZmVhTYVfS6qs21/5J/VsHiccE7B0=
+
+Name: net/fabricmc/loader/impl/gui/FabricStatusTree$FabricBasicButtonTyp
+ e.class
+SHA-256-Digest: 2NegQQUXX6JqW3TEXXVAypT7hWbpnpOzLrM9J9yoYi4=
+
+Name: net/fabricmc/loader/impl/discovery/DirectoryModCandidateFinder.cla
+ ss
+SHA-256-Digest: khKc0o0d1GVw8/9szzjc0xebin03tz6bZ/CB2QzAe/w=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/ObjectiveFunctionComparator.
+ class
+SHA-256-Digest: szhTtD2nGHDpm0OVywYebUjQx7tkkhANAWKjZ4mF9o8=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/MetaInfFixer.class
+SHA-256-Digest: aerl0GNQAXZacRDyYwkIMoYC8FHT2TpGJNV4axfDBiU=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/M
+ apUtility.class
+SHA-256-Digest: KFt82v8WA9bgSmea6UfEPPHzgigSLsxmh6LVIT/L0oM=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$StateProces
+ sor.class
+SHA-256-Digest: SWUOHPDDfKB6hFRYI6hQxaUZ20jobe4YYcpzy7tNsrI=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/ImplementsAnnotationVisitor.class
+SHA-256-Digest: IRzaAGx/C3Jt56pt+a6It760xdJmAASzCqKdOANhvxI=
+
+Name: net/fabricmc/loader/impl/metadata/BuiltinModMetadata.class
+SHA-256-Digest: fsZwZHyESCK3ws65vmosR6CCW8Y6HJYF9Wg/8J6e5kY=
+
+Name: net/fabricmc/loader/impl/launch/knot/DummyClassLoader$1.class
+SHA-256-Digest: 7NZQHn5YTBZPL7HAoYJgZTlVPN7AY2JM4w3bFufU4mo=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClassDelegate$Metadata.cl
+ ass
+SHA-256-Digest: JsKI+tE1Rjmja8/GgV6mvYTW7A/blNhnJqHUhnCsLKU=
+
+Name: net/fabricmc/loader/impl/util/SystemProperties.class
+SHA-256-Digest: oPRkN83VUmbtqMj8uaHuf9m/Jiq5VrZwQOdmvI8iBxQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/CommonInjectionAnnotationVisitor$CommonInjectionSecon
+ dPassAnnotationVisitor.class
+SHA-256-Digest: o3BcLTII5KLo6QMp/dQ1SPnVWqC6DTlPA0zm7nciMrw=
+
+Name: net/fabricmc/loader/impl/util/log/Log.class
+SHA-256-Digest: sp2v2xJ3IqIUnZ+FPkkvPNowNly/KWyPH/z8+Kd2AEM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/MaxWatchPb.cl
+ ass
+SHA-256-Digest: fK0ALxqim28/ui+kB6Y8oUDMEmfTWKDSS2uBYU3yJD0=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/PackageAccessChecker.cla
+ ss
+SHA-256-Digest: PI4w4USw/1R7yAPfg+kF6t95MzKKL++5BBqFQNtQGKM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/SearchParams.class
+SHA-256-Digest: fmByJVXkNSAFI9tZzOCUodEoRnsAgGIqrl0t9+lg1+Q=
+
+Name: net/fabricmc/loader/impl/game/minecraft/Log4jLogHandler$1.class
+SHA-256-Digest: eRfW67gSbzoZxRNF+klP1fze95xNKNPfmTH5xQS6S4A=
+
+Name: net/fabricmc/loader/impl/metadata/MetadataVerifier.class
+SHA-256-Digest: tn8SPXYylUn5b5P3BgGDchUVZZcdSChqE63Q4afasJI=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidener$ClassAcce
+ ss.class
+SHA-256-Digest: Up9iaApvvLAThgZL0+xj/essBjYO/Vqewm4mmaqh3Mg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/AutoDivisionS
+ trategy$2.class
+SHA-256-Digest: tPPMULP0H36wwtRC0OgMuBLy8drzRK50JutH55YDJGg=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/api/TrClass.class
+SHA-256-Digest: P5fqlFBJCBAViG7preXrfpHLJ8rl1rF0V1Aveuo73OU=
+
+Name: net/fabricmc/loader/impl/launch/knot/MixinServiceKnot.class
+SHA-256-Digest: rPEcaZBi08Lw2ol+J39jXGA6QR9WfZaNOLpYZTAdcJM=
+
+Name: net/fabricmc/loader/impl/ModContainerImpl.class
+SHA-256-Digest: o6oeTU+YCqlQk7ZhiBze06suMrhIUWWFljNOsmBcgts=
+
+Name: net/fabricmc/loader/impl/metadata/CustomValueImpl$NumberImpl.class
+SHA-256-Digest: VpxLe5iP2fuRkvoO/zM17BR2YoUxJmMrlatOCHDtBnY=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/uti
+ l/CamelPrefixString.class
+SHA-256-Digest: CGGWGnBgs/6a0NS9HZhTWbfuFu80WZLykrNW2e93C4I=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerReader.cla
+ ss
+SHA-256-Digest: YyXh28NmR1ZjQlqyvEYo69dwQiXC/7TTQyev17vnfvI=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClassLoader$1.class
+SHA-256-Digest: 55yM/bD1Cf/p6my4VT/PC+kWD0AfrMnaFHUisk34968=
+
+Name: net/fabricmc/loader/api/metadata/ContactInformation.class
+SHA-256-Digest: /L7qATiVEZxkosDb8VVSa39LXvJho956Rf9LmRfMF7I=
+
+Name: net/fabricmc/loader/launch/common/FabricLauncher.class
+SHA-256-Digest: ukjG1QTI1shVaaKd/tqpgkrrK0yDrycflJilCzu5uvY=
+
+Name: net/fabricmc/loader/impl/game/minecraft/applet/AppletFrame.class
+SHA-256-Digest: gKkYfGUr1kb3IZQH1zbHCYAmWHeAKKmTsBus7OG79xk=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClassLoaderInterface.clas
+ s
+SHA-256-Digest: OEer0Rk5tgNJWRUSL6K+fJXdJrklZ5n05Txv34NJU/U=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/VoidTracing.class
+SHA-256-Digest: buT433LsyB+4PDv+HhNaLF1jEUf67rPcouAQBclMhFk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/core/PBSolver$1$1.class
+SHA-256-Digest: cKSaafY1U6EHQCCztfZ4bXSMykJKscc081diFHCyDPM=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/MemberInstance.class
+SHA-256-Digest: bWmmijroetwjbUluyQKW6zYx1kAoVp13s6aGeV3CFtw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ISimplifier.class
+SHA-256-Digest: E29sPpmTPIySiyjD0kPiwRsS8ePrsHu0GLkGL8Sn2LA=
+
+Name: net/fabricmc/loader/impl/metadata/CustomValueImpl$NullImpl.class
+SHA-256-Digest: sX8dNquw0XicEnN0ON6UQfrydCY9y028Iy7V6p3VaR8=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/restarts/ArminRestarts.
+ class
+SHA-256-Digest: 38+pLs1R2Gj+zhgNWScY0TVkN3vgIWDqzYczEU74M4I=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/IMappingProvider.class
+SHA-256-Digest: jMlRDIkgZAmqyhrDyEXyL0VQiNCsjnZcqGpvAy0e68c=
+
+Name: net/fabricmc/loader/impl/metadata/CustomValueImpl$StringImpl.class
+SHA-256-Digest: 2L85tKN0eumc8n43XSGFaz/hZdAZbup+7bT9bybpAKU=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/ShadowAnnotationVisitor$ShadowPrefixMappable.class
+SHA-256-Digest: WfxLBH2Hh/Bm5LIpNBQUv/fjlNXGO2nCCqXVy3O7F3A=
+
+Name: net/fabricmc/loader/impl/util/FileSystemUtil.class
+SHA-256-Digest: Gj9ei+NdCd762pLqY9MyIoMVQbP6Jn0HRrf+hIuTux4=
+
+Name: net/fabricmc/loader/impl/game/minecraft/BundlerClassPathCapture.cl
+ ass
+SHA-256-Digest: dHVQcAqY2g6J5IzZDbyFH76YMelPfbuGp1fMiYwAylI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/ISolver.class
+SHA-256-Digest: s3GvtiLjiRABYzmvNyT2CqNHScTy7v4QAoXsVvbsTYQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/orders/IOrderObjective.class
+SHA-256-Digest: E/FMxWzrTDrprSCORn9XK5rdGOdTjYZBK11ML4QWU90=
+
+Name: net/fabricmc/loader/util/version/SemanticVersionPredicateParser.cl
+ ass
+SHA-256-Digest: omiMRbYTZhYwFCTnPdLEU7p3GqDhZX05KrMREiEqMrA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/EmptyVecInt$1.class
+SHA-256-Digest: AGvQf1TUg07fHS/47KXytihldURDmLyLT50X333RJnk=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/NonClassCopyMode.class
+SHA-256-Digest: xiZk10Fb0VT1f/HDrmMFZzMjTwKcd3eyNO6Pyaa2N9Q=
+
+Name: net/fabricmc/loader/impl/game/minecraft/launchwrapper/FabricTweake
+ r.class
+SHA-256-Digest: N4oH+snakDTDSdY0geDMc9Sx8YY54lAkAUB5RBX2o60=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$Method
+ ArgMappingView.class
+SHA-256-Digest: L5D+CCnsVDYNk1nESSpY0czA7u8GyTDjIwENBVDSVG4=
+
+Name: net/fabricmc/loader/impl/discovery/DirectoryModCandidateFinder$1.c
+ lass
+SHA-256-Digest: HTS5w4tDOjQbRDoke+RkaQUnbFublWXd4dUGqvRJBvk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/ObjectiveFunction.class
+SHA-256-Digest: 5H07kKbml2DWKq+CWCDrjLodx83EyVgy60PfqhFo4pg=
+
+Name: net/fabricmc/loader/impl/discovery/ResultAnalyzer$2.class
+SHA-256-Digest: UrTHc5v7SDFKFPxKA2DL9u4zMSuyhNoSPWwmMgn/2DI=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$3.class
+SHA-256-Digest: dWP0TCPzCDgAeS9IP7HZB9NAaKkVufdskWUuWarWtaU=
+
+Name: META-INF/services/org.spongepowered.asm.service.IMixinServiceBoots
+ trap
+SHA-256-Digest: o6mbkndSaWojKUBsr3vnjP7/N7k/B88/idh/p01aAVk=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree.class
+SHA-256-Digest: 9yTiRE5toiKFn7UKM0dLRH60ZTTZ9tBFce+G1FjY4AA=
+
+Name: net/fabricmc/loader/Messages_vi_VN.properties
+SHA-256-Digest: f1iCM6FL+Agx91Xmn/J60fbIJr3qBOmqNKpfZ3YONJA=
+
+Name: net/fabricmc/loader/launch/FabricClientTweaker.class
+SHA-256-Digest: DTMfyzp6+8Yz8yYz1c5/nerwr+GAUKHwRC1sY5Yf0HE=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/ClassInstance.class
+SHA-256-Digest: Dpvo4044akJPxMkEFQyJj6tCPXTRtKoUlNrkk7ufcyQ=
+
+Name: net/fabricmc/loader/api/metadata/CustomValue$CvArray.class
+SHA-256-Digest: NTrtFuBLoROLRkP54MNoG6TEsN6K+STNgaMfCkJBBpQ=
+
+Name: net/fabricmc/loader/impl/LazyMappingResolver.class
+SHA-256-Digest: LQFmkNGgYn/fTg59BnFMQjI4ucqp1ZfDCXpc19Av07k=
+
+Name: net/fabricmc/loader/impl/util/log/ConsoleLogHandler.class
+SHA-256-Digest: YkDFmPh1VutJ0NsWMk4Hg8ka474CU6aRDuOKREB6hcw=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/InvokerAnnotationVisitor.class
+SHA-256-Digest: jLGpr9PTWphwFzJeADR5fHfdHCRCv8R7i5xMtU2c02U=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$FieldStrin
+ gConstantVisitor.class
+SHA-256-Digest: P+UZ+XSstGXIIAEHiKSbxfP9890g6+pS4WYcNrgNivg=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerReader$Acc
+ essType.class
+SHA-256-Digest: Aw3g9Hq/rLZVgl08CN7n6REOrczYKBjaHe+5tKHcRpo=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/IProblem.class
+SHA-256-Digest: YGjLWjgIowiaYZ47q+39yCuzFXscKTTxiBaQsDfrU6s=
+
+Name: net/fabricmc/loader/impl/util/log/LogLevel.class
+SHA-256-Digest: fo/PQL80r6CCAvJOM8a01Di8CqyMpr4uwP4pNzMOqtk=
+
+Name: net/fabricmc/loader/launch/server/FabricServerLauncher.class
+SHA-256-Digest: 6KfBdB+NclEIE+KoeiUarvyaetIoKJECbdQMmE8kvEM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Undoable.class
+SHA-256-Digest: BTKiqCIG94Id05bd5KxZUP9WGTE/e6nI0/0VmiXmVSw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/XplainPB.class
+SHA-256-Digest: 9LNeAfb0C/QE+T6U0AtwxjbLXVKN9rZ4k1nPZ8tFjsY=
+
+Name: net/fabricmc/loader/impl/entrypoint/EntrypointStorage$1.class
+SHA-256-Digest: N9yg8upZeFUr/M6m0otdIQxh6eCmeBzrkbdvo8TCyU0=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidener$AccessOpe
+ rator.class
+SHA-256-Digest: qorHTeKxnOeV+Q3BT66nu6KEa22CFQpO3L0ChdnL8Z8=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$ApplyVisito
+ rProvider.class
+SHA-256-Digest: jGdJuD6QIsb4cCQoymRDnIqgIjyD7/QEmUoAZopJz14=
+
+Name: net/fabricmc/loader/impl/gui/FabricStatusTree.class
+SHA-256-Digest: NGRrWRlWN8qFFlIYtMexd26a+Xco4piM03aNmg6rq5M=
+
+Name: net/fabricmc/loader/impl/launch/FabricMixinBootstrap.class
+SHA-256-Digest: d9WLJLGhXRkpxQdXd8u6kVbEYXmvP5KgulszFEaraME=
+
+Name: net/fabricmc/loader/metadata/EntrypointMetadata.class
+SHA-256-Digest: rhgJudFF8sW1nxPeb3caUtnWOBjvXFieAMtctMGl8OM=
+
+Name: ui/icon/decoration/level_info_x8.png
+SHA-256-Digest: hHQdOrzrCZg6UV3CH9z8xA++qdANxfpaVwMSvFXJhNI=
+
+Name: net/fabricmc/loader/impl/metadata/CustomValueImpl$1.class
+SHA-256-Digest: V0xflM93bK8ljeHvdaWq50jbn3J4RazSgJ1R7+bzHSM=
+
+Name: net/fabricmc/loader/impl/util/version/VersionPredicateParser.class
+SHA-256-Digest: vdKFjm2Up85hFX/SnAxVeA5Z6Tj75fqJGt4brGqtlBc=
+
+Name: net/fabricmc/loader/impl/entrypoint/EntrypointStorage.class
+SHA-256-Digest: PTJgy3jjP3jnGUywk8uyK/xoN08VmbLVUYJdR99/Vug=
+
+Name: net/fabricmc/loader/impl/gui/FabricMainWindow$CustomTreeCellRender
+ er.class
+SHA-256-Digest: hQFLy2odFLjRqKy5xV2PEkik6qQJ5NYeRGKRzNjE6nk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/AutoDivisionS
+ trategy$1.class
+SHA-256-Digest: F+Ll4yjc3ek6BNL9LbA29NrFSBlcJDSgsqzSsl4nAQY=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidener$Access.cl
+ ass
+SHA-256-Digest: WyeaYdMEvDuVz/2WdhZS10HrXfEfXu+95SipqaWj3uc=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/VisitOrder.class
+SHA-256-Digest: Mt/BrMUoJGLTsadiw7e/TdCXwUrG4Muoc7PRk36gvWc=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/Har
+ dTargetMixinMethodVisitor.class
+SHA-256-Digest: lY1miEFQ5XO+oYKkCe7Ti99jNowmOKB77atkRj+yr4g=
+
+Name: net/fabricmc/loader/impl/util/UrlUtil.class
+SHA-256-Digest: dSA1u2HwNkO1SrYDM7t1HoBIAVBS6cW3s+C9jWdOqek=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/IMappingProvider$Member.
+ class
+SHA-256-Digest: lFBwrbKY5c397Tuqonc8Ul42Xc8svDmnAB6inTjo62s=
+
+Name: net/fabricmc/loader/impl/util/version/SemanticVersionImpl.class
+SHA-256-Digest: MiAZDZ01yGyAJOTPinZa2LoX+9AliABIzSTnVxwgcto=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$4.class
+SHA-256-Digest: AqCnZ/fM0RRnMICkoEtguFZedxoHvcA/miVOXrtj3Ig=
+
+Name: net/fabricmc/loader/impl/util/mappings/TinyRemapperMappingsHelper.
+ class
+SHA-256-Digest: GP+oJCeqd0C77i1aP8n3i9e4M7c2t0DF/4pemRjo5tE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/IWatchPb.clas
+ s
+SHA-256-Digest: GbVXBK4XoMirl/XvdESkGYDmbkVjLQjKAipTYUuI/mE=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/InputTag.class
+SHA-256-Digest: XCVgZxyaNoCtAGfymxet1e0AVJKOA09jjq4Z+ASxqqI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/IOptimizationProblem.clas
+ s
+SHA-256-Digest: f19ItzteWb8CkiSeTFdeuyh+I3aD3TMoqmjBE3OKQy4=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/ImplementsAnnotationVisitor$InterfaceAnnotationVisitor.class
+SHA-256-Digest: Em25jk6KEBf3ZE6T4CF2PQxvF7EZ3lkkJwV1K48KPZM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/Origina
+ lBinaryClause.class
+SHA-256-Digest: g/SZjKlec5DJwhRCaUcpvvdsS+CVIMYr6dAm1JzjdCY=
+
+Name: net/fabricmc/loader/language/JavaLanguageAdapter$1.class
+SHA-256-Digest: /mXfiOJnDou5xJYoV5pysRPCC5ijKc31LythgeVT6CQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/IteratorInt.class
+SHA-256-Digest: O0pyK4TC+KzQ8PNq8d9xCBNDpWaHuaJrHPf6zQSwQXQ=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Fiel
+ dEntry.class
+SHA-256-Digest: zofME5EZiMO4pfW9ORfMQJhZqmmFhN4RAI2w//mocC4=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/MappingFlag.class
+SHA-256-Digest: 4H8E2fdtiJjsWAVrMJQC/LAIY/tVbcUW7CAccAaWM5A=
+
+Name: net/fabricmc/loader/impl/gui/FabricMainWindow.class
+SHA-256-Digest: wxBW5jBMrrtFNimAOgINIAoU1SUitm//1SkpODGvAgo=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/L
+ ogger$Level.class
+SHA-256-Digest: 3QXaqZBJH0nfUQfHidPKMniIVG9opnzV5J1J0x6lJyA=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$MethodStri
+ ngConstantContainsVisitor$1.class
+SHA-256-Digest: X2EyHiZIw88wuQbrYAg4tv76lrWDlMQoywXCD3xAFSc=
+
+Name: net/fabricmc/loader/impl/util/mappings/MixinRemapper.class
+SHA-256-Digest: o0bSdgm7pJLZW9nQeuHZ9r9F7EalTW5eg1rIsYnFT/I=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Solver$6.class
+SHA-256-Digest: bcKVfSvkPr+9QRdV0Lyu3IGckOoHKzZRf2sYd5XVz8w=
+
+Name: net/fabricmc/loader/impl/util/log/BuiltinLogHandler$ReplayEntry.cl
+ ass
+SHA-256-Digest: IveJEUhI4hK7p2W1s2g5khw42ErAaLuHkNWLvYMVjRc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/learning/AbstractLearni
+ ng.class
+SHA-256-Digest: mbAhCKcVDZMjrXdjLMDJdhAXmmqmxu1jdV4NYrEI1Ew=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/core/PBSolverStats.class
+SHA-256-Digest: oiBOp3tAN9YhmjWAucXQ5g3IJRLCjHjigq7YJJHb/zk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/PBContainer.clas
+ s
+SHA-256-Digest: d7QLtfXQYq/Ssd56dTMPmJkdE0kEmcTTQUOOA/q+wPE=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersion$1.class
+SHA-256-Digest: b/I7/k7QjUMgMSCM18hQ/u+vJrnl+3UBPu4lc1ljh4M=
+
+Name: net/fabricmc/loader/impl/discovery/DomainObject.class
+SHA-256-Digest: kMXdhuJdNr2oANz0BCBSXOhOv6wkU8iLUVGC2sXzZWc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/Propagatable.class
+SHA-256-Digest: 6SrlaIKIbtGmPWBT6wnAUTuOFUCZdb62sjJBeAa3mOk=
+
+Name: net/fabricmc/loader/impl/game/minecraft/Hooks.class
+SHA-256-Digest: jCjlqVzyNVckQjjLH6ZKY9v2IofY/W7hDcDr0s6vj9U=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/CircularBuffer.cla
+ ss
+SHA-256-Digest: IFRsqL0mJ9d6TsfbQ8PaeroHxSsc0oX/XbJ6RsVy54g=
+
+Name: net/fabricmc/loader/impl/discovery/ModPrioSorter$1.class
+SHA-256-Digest: DGNGwBqpk6fIMkyFj7ZqHZ3/C/N1qYedMcwuefLEirk=
+
+Name: net/fabricmc/loader/impl/metadata/BuiltinModMetadata$1.class
+SHA-256-Digest: KD15YRr5RRI/MG+JQDMOGv+9gikkcsN7mV4FtkFlNBs=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/IPBConstructor.c
+ lass
+SHA-256-Digest: Kjvr58eP+sfFp1nFiRpZSHdyArAaMcV6aJl7Oua/XPw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/ICardConstructor
+ .class
+SHA-256-Digest: msDfOcxLEGxT/BqpRppt7IQ+kByNvDKQonxIVeSKUTA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/card/AtLeas
+ t.class
+SHA-256-Digest: ykXGgWrYtg+JkoI5m1I+YAStJuldO9EVKmVCW8fvPUM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/HTClaus
+ e.class
+SHA-256-Digest: SxzzaNUePmPVez99yOAE6XtDv+kqJM2/gMpPLZDYWw4=
+
+Name: net/fabricmc/loader/impl/game/patch/GamePatch.class
+SHA-256-Digest: Y+OG1FT66rpYMNPnLLUVrZ2xJlguMFpTqyJqoFze97Y=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/ReadOnlyVecInt.class
+SHA-256-Digest: hcWm674tFINbLgaDQIcmH73TQiNGf1wa/HzCm4Hdwd8=
+
+Name: net/fabricmc/loader/impl/util/log/BuiltinLogHandler$ShutdownHook.c
+ lass
+SHA-256-Digest: 78PJHKC5ej0gNMUQUvt1DNooIC1QPpgbuNtfezxkqR8=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/LearnedConstraints
+ DeletionStrategy.class
+SHA-256-Digest: qggcLLa7wpY38/CtQPI2sSV/27sK1/0Qh3aHaQ2FL+4=
+
+Name: net/fabricmc/loader/impl/game/minecraft/BundlerProcessor$1.class
+SHA-256-Digest: cB92W3FjWiHZWvanmlGvm12el5eKMEU2BfqYfu4E26Q=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/MappedElementKind.class
+SHA-256-Digest: wBbys2T2qX6xtnfUNgmt9Fdj46bWwvFEM4TfblgK0TQ=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadata$MapEntry.class
+SHA-256-Digest: Blz38pbqiK6blZQ0BoWRDOEFCnH+/hvBBJ7k0crO3yo=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadataParser.class
+SHA-256-Digest: MZjTgZmnFlf6LQQ/CPyrUkHt2y9y1+TX3ktGcQKvE1I=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/learning/MiniSATLearnin
+ g.class
+SHA-256-Digest: eB77yP19AWnl4Z2OMZ2DOtevERZ/XvvpUFOm+Ty5R+Q=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/Constr$1.class
+SHA-256-Digest: A5geQ/oHERKBbBMaKS6/XlEnj3ozDc4UW8xOyBrEvqU=
+
+Name: net/fabricmc/loader/impl/launch/FabricLauncherBase.class
+SHA-256-Digest: fouCcdwv9YPfIVgOtis6yzNUOMISRYASUzrnnXtTgyM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/ILogAble$1.class
+SHA-256-Digest: Vz1Y5sVdfvMP7HCBIzzYgTxgsL01Wq8iDksHsHoxvI0=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/Vec.class
+SHA-256-Digest: Rzvac7u31yWrg42RPp8MQII/EhawGMYMPZBw8/71N7g=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/DependencyHelper$1.cla
+ ss
+SHA-256-Digest: LNtK8aM5z735cPjbRycjnHFgSp/he90UhQLotXG0iWE=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/BridgeHandler.class
+SHA-256-Digest: IffBT8Ob1aj+G18Qx76bOHCqMDFSzA4p7OfJ/qJHyhQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/IConstr.class
+SHA-256-Digest: MP0Mc2t6x9+t06gBw5CjG++fXgbok8aL/b/ToFhBMAw=
+
+Name: net/fabricmc/loader/impl/util/ManifestUtil.class
+SHA-256-Digest: 3/BQKXblKI/4FAymIoZPphLoDsCM4YnnmcZfTN7Gl34=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Solver$4.class
+SHA-256-Digest: HFHfGSr7wAVj15/gV7Py4RTPaHiADNC6M+cK+XA/0uo=
+
+Name: net/fabricmc/loader/impl/discovery/ModPrioSorter.class
+SHA-256-Digest: qsqLmeBLysoHyqQ1IBS5Wo/lGswF84hy3dA3SzHodBA=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/uti
+ l/IConvertibleString.class
+SHA-256-Digest: WFdBC7VLif16AQFQ2o7O88bPqK4+fACUlKd8x8jFcK4=
+
+Name: net/fabricmc/loader/impl/metadata/ContactInformationImpl.class
+SHA-256-Digest: gOiIr6E/Ioy+heTwsv4zPIaAh1l7CBALoGHURpiPU+U=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Memb
+ erKey.class
+SHA-256-Digest: NeRnEtsRqhyjZ+IU0L/5PnZEqlUjsqA/jLFuR8ZVg2g=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/orders/ActivityBasedVar
+ iableComparator.class
+SHA-256-Digest: ujrUh/1kmB63gy2hWQS39nEfmbwZKE7AxpU62+QnSwY=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/EntryTriple.class
+SHA-256-Digest: fE6NSrmdA380ErJY5HSB96XGyJvrD4K/Xjy4acY9oHI=
+
+Name: net/fabricmc/loader/impl/game/minecraft/launchwrapper/FabricServer
+ Tweaker.class
+SHA-256-Digest: 8yPN4AQFqKyza84qgXy1E52mKGA7pcd6g5E52LaYiRQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$5.class
+SHA-256-Digest: GW2gwzKZJ9iOSxpGne00PmBV5d4qqVXN0P9rrsCeUrs=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Solver$1.class
+SHA-256-Digest: CyDfYzqsXFBDo2l6STX29oZ6LCIGhmbqwmZVhfU7P8k=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidener$MethodAcc
+ ess.class
+SHA-256-Digest: Cz6pOGbPjtdBZorYIKKOUFb/MFhSeUYCUggBuuE5bGo=
+
+Name: net/fabricmc/api/ModInitializer.class
+SHA-256-Digest: lIz+xXp/q+cKbf1bJWIFqXkdGhu29HgQZkaqBK/0n0E=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/LearntB
+ inaryClause.class
+SHA-256-Digest: pvf5s4rG7HUKidMICrU0zmNtUeyrvGCFegbY2I2R2sQ=
+
+Name: net/fabricmc/loader/ModContainer.class
+SHA-256-Digest: 95S30J1apSl00j8Ykft8EGuMvVUNX6HegldcxQjSL7s=
+
+Name: net/fabricmc/loader/impl/util/log/BuiltinLogHandler.class
+SHA-256-Digest: 27zFrYm4pSUB+0rI9uPT9S4PISnOsdr+GNSX3+NWP/c=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/SizeComparator.cla
+ ss
+SHA-256-Digest: rZG7uiKp5LskEi0EkotrnIuvWSJMOohToT/SxbBn+54=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper.class
+SHA-256-Digest: G34cnqDPWgHnhTYleTWfYkAdCRkrvG7/iRzyolIXMz4=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/WLClaus
+ e.class
+SHA-256-Digest: sduNtWIWmfnJ2zIsBoaw2e5BPowWKJ7erKUDL3W7Wdw=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree$MethodVarM
+ apping.class
+SHA-256-Digest: +pGHWPbpsh8lIQle+fgt9RgQApNfycuvN2WaHhPDzq4=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/ISolverService.class
+SHA-256-Digest: LT4Bp1i5XHldYsxjfwudj9IAwDXs5N79IHT9ZmRAv0U=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/AtAnnotationVisitor$AtConstructorMappable.class
+SHA-256-Digest: 7/l8i6qsLopEcJBuSdTjnQgmY4+lOOA6bpLWuQ82dGM=
+
+Name: net/fabricmc/loader/impl/metadata/ModOriginImpl$1.class
+SHA-256-Digest: Vaaf33KiW4u9KYJ7By1wMBD1BxfaserF903vXaqzjSI=
+
+Name: net/fabricmc/loader/impl/game/LibClassifier$LibraryType.class
+SHA-256-Digest: B6VCdexPuQW0CtojfmCe3TlXm0CcXS+QkQKUjMgnUGk=
+
+Name: net/fabricmc/loader/impl/transformer/EnvironmentStrippingData$Envi
+ ronmentAnnotationVisitor.class
+SHA-256-Digest: oYrTNazsfrnSeoE+w+t99LVZGqhz8ABJUUv5onz6bd4=
+
+Name: net/fabricmc/loader/impl/util/SimpleClassPath$CpEntry.class
+SHA-256-Digest: UKUlDrt0hV34bbaRenwv1ybqEznWjEhaoZCYb0ba5wA=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/WrapWithConditionV2AnnotationVisitor.class
+SHA-256-Digest: kJLBsVumoRZqvGj/2PrZOUe5+0A86li9yUmt3/0B9jo=
+
+Name: net/fabricmc/loader/impl/metadata/DependencyOverrides.class
+SHA-256-Digest: wUD+sP4LmqudN76RDEZLbp1R4A9LgmCUZ/oBt3mqbyQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/AbstractClauseSelectorSol
+ ver.class
+SHA-256-Digest: Oa/LTj/rRSa15pXCMQoVdk4EJtwKmsjC7UoJSlylKdk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/UnitClausesPB
+ .class
+SHA-256-Digest: z5dwjm/Gg2LSathahhuXFvqgW5N6NPF1x5OIp3LBBps=
+
+Name: net/fabricmc/loader/api/ModContainer.class
+SHA-256-Digest: Ygoi1jqJQZKF7woJz+chsOqKmJ6o/Bq5Sp0d9YGxq8c=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersion$Builder.class
+SHA-256-Digest: GZ98UhBiL7PpCbnKP14iLOdzYpV44xk0oahz0ptaaFQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/AsmClassRemapper$AsmAnno
+ tationRemapper$AsmArrayAttributeAnnotationRemapper.class
+SHA-256-Digest: oTIp8K9smMmrTUoU8EDA9mCv1nRr03VVY2WUfRCqVq0=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/core/PBSolver.class
+SHA-256-Digest: 78hvkKs167MPvaWIgGAqj1gZgvobiAy5jUAorwEmNQo=
+
+Name: net/fabricmc/loader/impl/FabricLoaderImpl$InitHelper.class
+SHA-256-Digest: Rx+3knw6jvh+hv2sIa/HvhVvcgpfCmtec6NTlNFNlXk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Solver$2.class
+SHA-256-Digest: jSd0mXAL63gzj/Yczy3Oi1l8U7XLP0uGZhYW8WusH+k=
+
+Name: net/fabricmc/loader/api/metadata/ContactInformation$1.class
+SHA-256-Digest: PWmu1uXzdzES18TxQEsLd4nuGmhm2R7FeAn5q0v/lnQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/ModifyVariableAnnotationVisitor.class
+SHA-256-Digest: ZvF0BcP8B3tgNN10xw+3gyuzX8VZOLL43MCST8Vi25w=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/AsmRemapper.class
+SHA-256-Digest: xXNniKdvU17zN5LujK63uSBlsKnAs/ZGq6nz5JHdWT4=
+
+Name: net/fabricmc/loader/Messages_ja_JP.properties
+SHA-256-Digest: /8jQM/iPjyDz1+qjHCmoWFKEvKuiGw/Wd53XkID/EW4=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/ILogAble.class
+SHA-256-Digest: Lw4nuT4DUJuiN8BEcL3+ubnaG3OggRdevi3J5QjNJbQ=
+
+Name: net/fabricmc/loader/impl/discovery/ModCandidateFinder$ModCandidate
+ Consumer.class
+SHA-256-Digest: S41BVPKtdUhW1aSnLrAGxFsbGgdQlCLy5vtFpmHRhMY=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$2.class
+SHA-256-Digest: 5nRk88F2Zgoa273f7KWweSoXFWA0+wOfDmle4Vhjn4I=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/ImplementsAnnotationVisitor$SoftImplementsMappable.class
+SHA-256-Digest: fRYXPXBQXP/U1CToNLgmhrccHwRDELHDEglm3VVGQkY=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/d
+ ata/Pair.class
+SHA-256-Digest: wHZrmGVA9ESP6gkGxvJZ7qJbVJHW31IjVsN1MCpNX3E=
+
+Name: net/fabricmc/loader/impl/metadata/CustomValueImpl.class
+SHA-256-Digest: /1kb5P5F1Ng+8pm0+vMjXSB2H6YYfnnAaG2ZmTUR31Y=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/AbstractClauseSelectorSol
+ ver$2.class
+SHA-256-Digest: 1SRgcRLr0lYTmPxqe/noB6CE7Vc6AAP72h5KERyxZBg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/DependencyHelper$2.cla
+ ss
+SHA-256-Digest: tZhyrvxa9EEx0mbzC015dFFXwMzRlj1pSvQTMxZOhBQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ConflictTimerConta
+ iner.class
+SHA-256-Digest: WJJREK3QizyjcfQ/eUuySqzz9w8fJ3wBZKQ4gDx8Q4k=
+
+Name: net/fabricmc/loader/impl/launch/FabricLauncherBase$1.class
+SHA-256-Digest: Ybjdrro/ZOo6GWgJHCg4Jx97mv/g/O6ZwqiRB0blLoY=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/SolverDecorator.class
+SHA-256-Digest: 9Qf1+mzAJ94wjVwxwIkEk8vRUfPfhCcTNDh6KcufAZI=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/MixinAnnotationVisitor.class
+SHA-256-Digest: IJL5AsvxSTk5eF0jUKPASMfy2BdDRtQStpBk/xSGJZc=
+
+Name: net/fabricmc/loader/impl/metadata/ContactInfoBackedPerson.class
+SHA-256-Digest: SK9OBSZT/hneVR2GJYc2bDxcrQSokl/RgpOWw7gea1I=
+
+Name: net/fabricmc/loader/api/MappingResolver.class
+SHA-256-Digest: bjQBdgrsQ9UdtRflGxDZe74qgeDa7RQq04V9cLHDmnY=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$1.cl
+ ass
+SHA-256-Digest: X2YrTIWUYbVN0iEV6JcFsFeu+X3q1i1hf1pEBowLGS0=
+
+Name: ui/icon/decoration/level_warn_x8.png
+SHA-256-Digest: cG90Jq8FU6trO3HVEnO8y4YZ4KMnejH9rHNLpv37nHc=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/CommonInjectionAnnotationVisitor$InjectMethodMappable
+ .class
+SHA-256-Digest: doP4KH9ZLSkO2EbutW98VRkgnl+9CLwvRccJKid5jkk=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/api/TrEnvironment.class
+SHA-256-Digest: bF9cMxHZeJJcJ/dEPM9zA6suOZxgf1X95+WSZA8JAw4=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/MixinAnnotationVisitor$MixinSecondPassAnnotationVisitor$1.class
+SHA-256-Digest: 3j44dtYy63qdHBx1JZ14uAzLlvlxYZXbuMBHPyN7ft4=
+
+Name: net/fabricmc/loader/impl/util/StringUtil.class
+SHA-256-Digest: a4e14wBRhmHfNVQeGchvQaq9355xIZyqKIugIq9kucQ=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Memb
+ erEntry.class
+SHA-256-Digest: la82yWEum5x6djcBDUBG55u8VherSR/eyvehm3wgGyw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/AbstractClauseSelectorSol
+ ver$1.class
+SHA-256-Digest: buQpB4Mn2YSPpM43QExMiSOy8Bx2r0uXqmu6vpa8cdw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/AbstractDat
+ aStructureFactory.class
+SHA-256-Digest: GKz/dxXeETh8c8QrAq4a/xmP6Q0PY78e6mdYsU4ODZw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/UnitClauseProvider.class
+SHA-256-Digest: ON0mlGhz5ZhTv9CPIpgxukeJF1Soegv4nPrJ1SVgyu0=
+
+Name: net/fabricmc/loader/impl/entrypoint/EntrypointStorage$Entry.class
+SHA-256-Digest: oxUPcdVmadFDmUewwYMPs1tt8oXZlzZFDCZkGneS5VI=
+
+Name: net/fabricmc/loader/api/EntrypointException.class
+SHA-256-Digest: 5hvAgP/B9M8yLQ2OXZ52/d0BYHu/eFcGeG44hgms+fg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/DataStructureFacto
+ ry.class
+SHA-256-Digest: ll0nzFi8Nta3WL0QRbw/fqyy+sqvA+3Yq+PJA9COjNs=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/QuadraticPrimeImpl
+ icantStrategy.class
+SHA-256-Digest: //iUtZcZaSHeSGivedTZ/BcwwjIgd2k+roiiZ+cRMI8=
+
+Name: net/fabricmc/loader/impl/metadata/CustomValueImpl$ObjectImpl.class
+SHA-256-Digest: BSUGSC1BxBi0qaiX+yuhJqETPU1Ghn13Mhev0AIeAEw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/FullClauseSelectorSolver.
+ class
+SHA-256-Digest: w1OHAsJ2x7BSLqUCPiDbVPgORzFj1vLYlPHlWUT9234=
+
+Name: ui/icon/level_warn_x16.png
+SHA-256-Digest: CMDHaaLFm5IsyDfHami3Q02Jd6/8x0j+aKP3+HCFxak=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$1.class
+SHA-256-Digest: tgVwqRVsOw6QdDHDkOfmRoFYQNyFI8dajEIdlJnTJwM=
+
+Name: net/fabricmc/loader/impl/game/LoaderLibrary.class
+SHA-256-Digest: nEtFv//OnbKCSi0rLgZqaaDVmyzcuJ+TSCfMX8pfYJo=
+
+Name: net/fabricmc/loader/impl/util/log/LogHandler.class
+SHA-256-Digest: DCAzX69yqCZSjrmTUYJzMtDC4NMgEYI23xYmiQcr/kg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/core/IPBCDCLSolver.class
+SHA-256-Digest: bN2BJ0s2jvsKGx/VJMJBsHKDLpCst52moIOjsZ+1RxQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Solver$3.class
+SHA-256-Digest: pjd1gU8/h14gg4/RvEv1X7K/07nBw+FAqQaSPL2wWGE=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/dat
+ a/SoftInterface$Remap.class
+SHA-256-Digest: IkUtZBovJFW6huDN7YMYgglUw9zIfKeBwYnobPvqbN4=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/SolutionFoundListener$1.c
+ lass
+SHA-256-Digest: 31oLJ2d+mwq3McE4pDk9LapzLbv6aOy3WaebYFArJxM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ActivityLCDS.class
+SHA-256-Digest: ISpz3M0BIR5zVJ32Cd1jz1rJVCAthHAXmmBTQNcGh8E=
+
+Name: net/fabricmc/loader/impl/game/minecraft/BundlerProcessor.class
+SHA-256-Digest: lvdCWBuEV3Rh6vvOAoMUtrvPAu+q0UXrG4Yi1EE2LfA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/GlucoseLCDS.class
+SHA-256-Digest: HLJp0bCScjFv5RGUP+ZkeQ5lEy36OMU+TVSgabOtC2Q=
+
+Name: net/fabricmc/loader/impl/util/version/VersionPredicateParser$AnyVe
+ rsionPredicate.class
+SHA-256-Digest: +xIL8KrbV5unzmOJRmYsQvl7xtu/PlDD99yuycdJkSw=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/MixinExt
+ ension$PreApplyVisitorProvider.class
+SHA-256-Digest: 0AQ0RZ/3vgBt+sXZEbIeN0ptu3zmQQIfY+odlN7JZyA=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/MixinAnnotationVisitor$MixinSecondPassAnnotationVisitor$2.class
+SHA-256-Digest: t3oBIHNngQEdB86C3zmv6TqmraOI1XtkE8TNUAPX6CQ=
+
+Name: net/fabricmc/loader/impl/gui/FabricMainWindow$CustomTreeNode$1.cla
+ ss
+SHA-256-Digest: LuXY6sLi662N8LEuvOKQ9/Jz6jWjBiPT++1YO3vywsE=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$NegatedDomainObject.c
+ lass
+SHA-256-Digest: fq2TPd6Hvnp1dx9CaqBpaKTYTZOPWbSjw8qXtDIo3Vg=
+
+Name: net/fabricmc/loader/impl/game/minecraft/Log4jLogHandler.class
+SHA-256-Digest: 4lRKe/eHW3WZNORp86oz00FvSMD3qtrx7YfFMAsRyzk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/SolverStats.class
+SHA-256-Digest: vB7ynivGJq4bF/sjmUIs2WmgkTCIXppkRvzcPsllwyQ=
+
+Name: net/fabricmc/loader/impl/metadata/CustomValueImpl$ArrayImpl.class
+SHA-256-Digest: ekfPO27wBf+hAXzP4beAVwmXtJP+YalmCixfepcYqP0=
+
+Name: net/fabricmc/loader/language/LanguageAdapter$Options.class
+SHA-256-Digest: iSIqmIa9gMs7m/xDMtVauFfUE/AUt5t3oS/W+A+EPdI=
+
+Name: net/fabricmc/loader/api/metadata/ModEnvironment$1.class
+SHA-256-Digest: gMwlesf0hvjbwW+PMAIZlgilmUOXy6BMzE9X3LUjtf8=
+
+Name: net/fabricmc/loader/impl/entrypoint/EntrypointStorage$OldEntry.cla
+ ss
+SHA-256-Digest: OEP6vt1cdIQ4xiMSPsqcyamoM/qtGOjM7+Qnlt5V6/U=
+
+Name: net/fabricmc/loader/impl/metadata/NestedJarEntry.class
+SHA-256-Digest: Wj0GdF3XVMt0FEEAlV2cXt7c1Izq/tLG2ZhQK1buR08=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/AbstractPBDataSt
+ ructureFactory$2.class
+SHA-256-Digest: /ubCyg1vrAJ/mW/v1dy7GpaXzEuYPoo11+sPsHAY7nI=
+
+Name: net/fabricmc/loader/impl/metadata/CustomValueImpl$BooleanImpl.clas
+ s
+SHA-256-Digest: vjr/aho/RqlxJ/nWS8efR+yh25jro9j+XkjlsMnqF2Y=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/UnitCla
+ uses.class
+SHA-256-Digest: Uqt2n0ia3G/z8e/JukL04a5dsAsTPZS61GMMGvQmNok=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/MixinExt
+ ension$1.class
+SHA-256-Digest: f9SeLYpK/IIvLptB4g1djreMtnxjPugHl1Ur8+poo14=
+
+Name: net/fabricmc/loader/impl/metadata/DependencyOverrides$Operation.cl
+ ass
+SHA-256-Digest: 32SoQMXV5BccdQumCBxTED1XjyRbYU5CT6y5kF7gdFk=
+
+Name: net/fabricmc/loader/impl/launch/FabricMixinBootstrap$MixinConfigDe
+ corator$LoaderMixinVersionEntry.class
+SHA-256-Digest: DnIVZ97Js4V0xbCmnWHBDTM/zzd7BU/vo6Ev/LK+bXQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/ImplicationAnd.class
+SHA-256-Digest: 09wGz4y5qurS5xCEJAf7Xb6/eATorwgHY5/1NkDuBSk=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerClassVisit
+ or$AccessWidenerMethodVisitor.class
+SHA-256-Digest: GD+nBIgcgwLkhr8ruBN4v9xF9DEnoEyLs1yovMBeOMI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/core/PBSolverResolution.clas
+ s
+SHA-256-Digest: 1Fb+SNhvi9vCaqs2iVP+wU6P+R7/GxROFN/u6V/wh8s=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/uti
+ l/PrefixString.class
+SHA-256-Digest: ATOi2sGsyJ17PthIVOCX3vnNjT1iJc/ROdXP1t26mcQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/AtAnnotationVisitor$AtMethodMappable.class
+SHA-256-Digest: 3WS/scPzRfg7V2nnTGhsJLjb50iKIsGMqX53qM/fHUk=
+
+Name: net/fabricmc/loader/impl/MappingResolverImpl.class
+SHA-256-Digest: HU66LRUI5wm8p5NKM4R+uloovN4DNIaHix0EGcGDDWk=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/InvokerAnnotationVisitor$InvokerMappable.class
+SHA-256-Digest: 7Kd0mmYezjQuNXBHui/sYG1Mc8vHa9Wmg1lhzI+tFmc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/IPhaseSelectionStr
+ ategy.class
+SHA-256-Digest: 52Tn5MIp35/4Yb+kiZlQ6/hRntK7MP3+P1chk7xeUGA=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Glob
+ alMemberKey.class
+SHA-256-Digest: Kb5oIJ/hK+0wVTTesGtsBBQm3gEizvAb9HesXUGePck=
+
+Name: net/fabricmc/loader/impl/util/mappings/MixinIntermediaryDevRemappe
+ r.class
+SHA-256-Digest: np0Lm1vyRtQNTbqx3qsFWVyWUfePy8RViClMGJ6rZdw=
+
+Name: net/fabricmc/loader/impl/launch/knot/Knot.class
+SHA-256-Digest: f7Tim6kkRGmcT3myC4WPFRfZ/suaP2KemSmJ5GfKoxs=
+
+Name: net/fabricmc/loader/impl/entrypoint/EntrypointStorage$NewEntry.cla
+ ss
+SHA-256-Digest: obZSiZiJ6rUtDwBnnA8PeFl7ajV7qUCfudZ4aT3yWJk=
+
+Name: net/fabricmc/loader/impl/ObjectShareImpl.class
+SHA-256-Digest: PMEjAakzEC1fabmY65JLfVNWlkwRuk2/SsY8KHIjsaA=
+
+Name: META-INF/services/org.spongepowered.asm.service.IMixinService
+SHA-256-Digest: niqQh72jyNNqH8OZyTbbWWiVIbw+KKlPyppkkjft5Pk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Solver$8.class
+SHA-256-Digest: 3kcGqXUYNtnSS/giAW+0IQ7NosFoZn52VEY1HLxzctk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/AbstractPBDataSt
+ ructureFactory$INormalizer.class
+SHA-256-Digest: 2LTVAHZFXaPstI3n7U/ZmOMHES/dFVcuspWJJaL2dtg=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/Har
+ dTargetMixinClassVisitor.class
+SHA-256-Digest: 4w7cN0TAMVwPbx5MXt0DraQiWnXgxyXv20JKxw1WmNM=
+
+Name: net/fabricmc/loader/api/metadata/CustomValue$CvObject.class
+SHA-256-Digest: iOrmLe9Xe8ALrzf6djwkJsmu8DhT99xdwCooXKb85G0=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$MethodCons
+ tantRetVisitor$1.class
+SHA-256-Digest: QGznkLJUSz02FnN2V8q6c+h5vio39nKKmdQf2cCkOZ4=
+
+Name: net/fabricmc/loader/Messages_zh_CN.properties
+SHA-256-Digest: AMggNShwIHM28ctt/SEJRk+Lvrzasuc0D0aU/aEUQus=
+
+Name: net/fabricmc/loader/metadata/MapBackedContactInformation.class
+SHA-256-Digest: dGvjP8iDUkgG96GIYlaSYVZECfSYxPBpWtl9WtMMFMc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/LearntW
+ LClause.class
+SHA-256-Digest: sJ9c723JRCgeBApubshf70yiCsixfrSZfHBqbFlmqqE=
+
+Name: net/fabricmc/loader/impl/game/minecraft/patch/TinyFDPatch.class
+SHA-256-Digest: A/vnpSixz2otK8/1HmMWHdOpOKNSPdWg5qJOiI20Ke0=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$InsnFwdMet
+ hodVisitor.class
+SHA-256-Digest: cMAoB71Q0a9r61orYoqlAXr120jvAzJVQqp0fsO1HkY=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$Direction.c
+ lass
+SHA-256-Digest: 6rtgG0ctAeIvIpFHyX8PwF22lbLYV0avUbUMbLZHQ88=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClient.class
+SHA-256-Digest: oP6/AviuGzq/xUXUAMGK2bToxaCoPFEAYPusmxS6KGc=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/uti
+ l/IdentityString.class
+SHA-256-Digest: 9gp/tn/+gz3B82dnxLpkmndpkpLIGioTdMocHAHR52E=
+
+Name: net/fabricmc/loader/util/UrlConversionException.class
+SHA-256-Digest: D1dlWU1+cXDDFklofkz6iMCJKKEXBxnHwSLc0ypCbq0=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/Propagator.class
+SHA-256-Digest: TvHW5yzK/yDxqJmp1lLMZqexIEl1R9DXnc2M2EPb5Cg=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/MappingVisitor.class
+SHA-256-Digest: B+smJukVookCmDntnT32rBJi+ZBapnZ9kRkZ1aUOhG4=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/MaxLongWatchPBCo
+ nstructor.class
+SHA-256-Digest: 6NotnRVfLgO6XRanaUo19h6aa5Ug7v1JUcDDCuykMH8=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$AnalyzeVisi
+ torProvider.class
+SHA-256-Digest: iVw3PF3QqWO45q8bmeQ2qRvJ0+ZyIGeSt71p1XmLyfk=
+
+Name: net/fabricmc/api/EnvironmentInterface.class
+SHA-256-Digest: RBhhXSsSGHh/SPq0bfRFzzmYZQ3J1b4TO9cbh7ZYy10=
+
+Name: net/fabricmc/loader/impl/game/patch/GameTransformer.class
+SHA-256-Digest: pTl6dCPCyklikfKooNXMu/PJ/ZBxCNIC+4qu4rS/eZg=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadata$MixinEntry.class
+SHA-256-Digest: 6OIEOeTJkw6BuEL4zRybSEjXlkdHpXAPpas7KrjHwvA=
+
+Name: net/fabricmc/loader/impl/util/version/VersionPredicateParser$Multi
+ VersionPredicate.class
+SHA-256-Digest: SKg8a7qd1IUmkAujy5YePpWEHHYY50IRU0g10qBkNgM=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/IMappingProvider$Mapping
+ Acceptor.class
+SHA-256-Digest: 9CMoH3nGbRR8yf5QiCOQWcL1cRLVZbXyqNgqtKTBM6c=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/L
+ ogger.class
+SHA-256-Digest: 8vkiJx2qYnEfiC5dZPvd38KAZHowoPG6zPUZNAbR3yc=
+
+Name: net/fabricmc/loader/impl/gui/FabricStatusTree$1.class
+SHA-256-Digest: y7Dhso0LthLJNNuMpssIQ+gRjl5FiQkv2iD1A8tXNcs=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/MappingWriter.class
+SHA-256-Digest: rgz04zPsyhKItGFOIMqn9G9jDET3ewv5+PLTYDmDKuI=
+
+Name: net/fabricmc/loader/impl/gui/FabricMainWindow$IconSet.class
+SHA-256-Digest: i1ddbU4B8iqe/jlGmmkAJ8e8Oj11KRccDtBLRUygz8E=
+
+Name: net/fabricmc/loader/impl/gui/FabricMainWindow$1.class
+SHA-256-Digest: enAw5T9k8MxxNur/AQWuc1mQZ4k0Xe66ImilfwxQj44=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/restarts/Glucose21Resta
+ rts.class
+SHA-256-Digest: legjp5imvr8DFQxU7UhkyBdwKcoAuTmyUBokQfWVU44=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$Method
+ VarMappingView.class
+SHA-256-Digest: h3bXWFfY51bdGH+0XorbwhjkQBV+rig30Z5/hbeWo2w=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerReader$Hea
+ der.class
+SHA-256-Digest: 8rHBswERuC7HPFzEkhk4GAOiPdMVo6XWAMPNAn1LAXI=
+
+Name: net/fabricmc/loader/util/version/VersionParsingException.class
+SHA-256-Digest: +FwALzUhzIYVuKy0VKM7fQl8nbYYYztjEvy6nyucq5A=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/Clauses
+ .class
+SHA-256-Digest: sRzxSPAL1slGGAyZggU8+4iB1fUYDVgJd0sZetykzFk=
+
+Name: net/fabricmc/loader/impl/util/DefaultLanguageAdapter.class
+SHA-256-Digest: Q5jaCj02sPJejPlseu/o2MoW8wzWiM4z738F2oFkUKc=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerFormatExce
+ ption.class
+SHA-256-Digest: kvUPoxOlCrjvCWZwo5ZnAirpwm8ONQVXRyh1LMT7MTA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/AtLeastPB.cla
+ ss
+SHA-256-Digest: CtFCGuoLklm3PydGaSVcl/DE1QbHEPf1/XlZgRECh/k=
+
+Name: net/fabricmc/loader/impl/launch/knot/MixinLogger.class
+SHA-256-Digest: tkMdMlksucRygnlqUf09yr00A1gL4sR5CCxf3HsL0Rw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/WeightedObject.class
+SHA-256-Digest: A4B0tsfddrpTKhFtvln79p8Lf8MVe22H+ntLa/NXgnY=
+
+Name: net/fabricmc/loader/impl/util/Arguments.class
+SHA-256-Digest: S5Dql48WQgc1RJtBOVEdlHdh7B3HyAOiZ8KJlJ28S9U=
+
+Name: net/fabricmc/loader/impl/discovery/BuiltinMetadataWrapper.class
+SHA-256-Digest: SG9VfOVZAsEmpi0XJfldrgpcNeY2VgZfjKQXnACWq8E=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$MethodStri
+ ngConstantContainsVisitor.class
+SHA-256-Digest: hfVozay2CA6UNxBi6v2Y8sWrLFqHKV7WgeZBX5klWAg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/IPBSolver.class
+SHA-256-Digest: 86vlBBg4voNOgogZMltav5tAjmHjnDQwEMb6H2bEFHM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/WatchPb.class
+SHA-256-Digest: KTISJDxHrIzFCSmIKNskKcosf/I4qsZ2Z1zAZSZRhjE=
+
+Name: net/fabricmc/loader/impl/FormattedException.class
+SHA-256-Digest: VW1SAHgCwkL/XtrxjRVN6w/4PoA/YB6forpnLJCKNbE=
+
+Name: net/fabricmc/loader/impl/metadata/VersionOverrides.class
+SHA-256-Digest: itY1x7C5Us/7d4rmr8wHcTT24kg2NIuMoj2TyUFHS/w=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/CommonInjectionAnnotationVisitor$CommonInjectionSecon
+ dPassAnnotationVisitor$4.class
+SHA-256-Digest: 3V3O6J6+GuFpwCt9ZhoiXaHe8LGMV2bPZm2z4B1mdUc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/UnitBinaryWLClau
+ seConstructor.class
+SHA-256-Digest: T+ywqpBBrPzRPHnB4PirGrt9WaKxX/sBOi61bTa4A18=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/VisitTrackingClassRemapp
+ er.class
+SHA-256-Digest: MGzuHLr/J6XzzdBL8TRCNd+2Z3mq/r5boS9kgdBApnA=
+
+Name: net/fabricmc/loader/api/entrypoint/PreLaunchEntrypoint.class
+SHA-256-Digest: gZo4wygkyx+sCFRAoh2LEbnB76d1s4JumJTkaNYo9eo=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/DescAnnotationVisitor.class
+SHA-256-Digest: cr7JeXCbfZAfjUiqPwd1M5r9k08OtO44FBq5V4Pk+QQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/InjectAnnotationVisitor.class
+SHA-256-Digest: Z1eUR3PXAbJSAb/50YJXDZ+J3tCa9/LfNDHHmZwOZOo=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/InvokerAnnotationVisitor$InvokerSecondPassAnnotationVisitor.cla
+ ss
+SHA-256-Digest: nlr4ilfG/0kLUWuCKBDN5S0rHhCI3sr1TvMF6aO0zYk=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadataParser$1.class
+SHA-256-Digest: uZ8t9zS5l1GkiYdni1ZO0O+bRoUaMLPww2Bh+Ec9ODc=
+
+Name: net/fabricmc/loader/impl/metadata/ParseMetadataException.class
+SHA-256-Digest: wtH78Q3yA0wgvIPYFTzU+DhZsgmnXoFqEHlbITDVuXk=
+
+Name: net/fabricmc/loader/impl/util/mappings/FilteringMappingVisitor.cla
+ ss
+SHA-256-Digest: YsrzXp3rdboU5P5Vnvs4t8RAUNZ8gcNYLeAokHiPU1c=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/MapPb.class
+SHA-256-Digest: dKV3ILyEPVhuA6hGCI3W6ot0TmIWI5ZuLt4ggZ0cPRg=
+
+Name: net/fabricmc/loader/impl/metadata/BuiltinModMetadata$Builder.class
+SHA-256-Digest: CcSzMiNpyws0cTMD0ySFIlLjs+hG/fyd43ZEy05ZJ1A=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/IVecInt.class
+SHA-256-Digest: Sr3NB/ZWB1TqHgElfEC1xa7hUuoEDBViCiPb8ApGFhc=
+
+Name: net/fabricmc/loader/impl/game/minecraft/patch/BrandingPatch.class
+SHA-256-Digest: f7VEN8fOlDKU3t5SyKKOY8dYNupOnF7siIM9MHQKnzg=
+
+Name: net/fabricmc/loader/impl/metadata/ParseMetadataException$MissingFi
+ eld.class
+SHA-256-Digest: vdZ/ti35Ba1UsNiOIPmK0NLInV1NZqsnBy4fDtgwgcE=
+
+Name: ui/icon/fabric_x128.png
+SHA-256-Digest: b1ubjsMTfHs8r+jr6OidGZWrNEb+mJYPaAgo+tpDF/w=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/IPBSolverService.class
+SHA-256-Digest: SktW6NXu4eO3kWpaW8x4IbUdgPkX4UPU+edOWBU8UIg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/GateTranslator.class
+SHA-256-Digest: ZCd0NopeOpQLood8Lsu6kFNdgxZPbi+ScsbV1YC+Uzk=
+
+Name: fabric-installer.launchwrapper.json
+SHA-256-Digest: CRsOusVOFeM6KW6SWYcLIbSs/YkK9DIARJTKUtFOtR0=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/Sof
+ tTargetMixinMethodVisitor.class
+SHA-256-Digest: xvZURTNo6HC4c1gVnVfZvlqMn1XHjzar5AOY8Zo0Vp8=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/FileSystemReference.clas
+ s
+SHA-256-Digest: LGWbnZ+nE5y1x9Oxoa6ilCoigmbF4hOa7/4tuUlilGM=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup.class
+SHA-256-Digest: B7yKvSWKMTICqN4kzaDWGeX5J7hZ/+26JNTTyTBu2+s=
+
+Name: net/fabricmc/loader/impl/launch/knot/FabricGlobalPropertyService.c
+ lass
+SHA-256-Digest: uJY14QNvaXYPV7jV7McuRTnMEbF+xej65UlkIftCbas=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/IDataStructur
+ ePB.class
+SHA-256-Digest: DsesoP1tEbVRA5OjTEEDBoLycW/sLMemjXJ9YXG2Y0M=
+
+Name: net/fabricmc/loader/impl/discovery/ModDiscoverer$RewindableInputSt
+ ream.class
+SHA-256-Digest: n02PnSs0XPB+GYK84jpzejNr4LBaI4g34Y5kl2H4bGQ=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadata.class
+SHA-256-Digest: 5dqW6kELGKO6p9HgDKWF0kZitchUQQGiM9MtMKRRWvk=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/AsmClassRemapper$AsmFiel
+ dRemapper.class
+SHA-256-Digest: nByb4oR93PdJ37OcwxOiymGR3EvRZsQpu0MwwGWra+A=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/AccessorAnnotationVisitor$AccessorMappable.class
+SHA-256-Digest: zs/tl0xSMN5EidgiqVY56Ji2k5z21x3kU80bS1kkyy8=
+
+Name: ui/icon/java_package_x16.png
+SHA-256-Digest: 5ze59wg//JIapCU+5HwzbG3ICUH4JPBd6zRK21coNE8=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/HierarchyInfoProvider.
+ class
+SHA-256-Digest: Fd79AGsBuZ8SYPgJgegtehisU/CqaCbYNs53/S+gSpU=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/MemoryBasedConflic
+ tTimer.class
+SHA-256-Digest: slOhKtx2xErhayz4ueU1kAoixpBqnLIS7Oknkv4pqds=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/UnitPropagationListener.c
+ lass
+SHA-256-Digest: cjqYsQBH+eX2wh910R+7wgyzLQVfG9CNxpVm+U6HBsY=
+
+Name: net/fabricmc/loader/impl/metadata/V0ModMetadataParser.class
+SHA-256-Digest: mFDvaMrTHyd+eqxpIU7FwrEKhKMnVp+i/nvxCzDR2Ds=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/PseudoOptDecorator.class
+SHA-256-Digest: Doo3WOMCCHMiuKxAKlK2U3ZLFzyMQOY0QCuGl1xVxNc=
+
+Name: net/fabricmc/loader/impl/game/LibClassifier.class
+SHA-256-Digest: ZKt9sULh2Ad5Mmu52IQMIWyQbiBvkKOQ4A0HzGREtPo=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$RemoveModVar.class
+SHA-256-Digest: fvu7GMmxqGOgkcKOUvqo1vs9GCLr5EGLA69ijpDn3qE=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/api/TrMember.class
+SHA-256-Digest: AzGdWGmKYCQTgsm5HUWPRxSnwoHxAOHMMJsPk5bZCFE=
+
+Name: net/fabricmc/loader/api/VersionParsingException.class
+SHA-256-Digest: hoGE4iH+vwW/bE2Ghbm7G+kOPi92RwUW10Xpc7PcOJA=
+
+Name: net/fabricmc/loader/impl/metadata/AbstractModMetadata.class
+SHA-256-Digest: cJ+wKW+NIBamz6llT+jj7vVxoSqmBf8g4kaEmqKlPls=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/AbstractPBDataSt
+ ructureFactory.class
+SHA-256-Digest: wYnvd+KaJ7AUL1KXNtYs/L08Lce3dOizrC02eeflR0w=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$Metada
+ taEntryView.class
+SHA-256-Digest: CuG2is/HHiJgG7x80lfdbaus2asqXtlYNNB2v92mt94=
+
+Name: net/fabricmc/loader/impl/game/GameProvider.class
+SHA-256-Digest: LyYR5XwNOVRwnh+3VR4R/nDI18DDTQiCw7zPjw7vETM=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionComparisonOperator
+ $7.class
+SHA-256-Digest: ZA4+xgfQicNvE1yjQH6DGf48v3gdi3RvV1HQLIJZOG0=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Entr
+ y.class
+SHA-256-Digest: SoByONN0CuuYLAeSXuh3nbmi9d+dd4OI3mLlZbJGH70=
+
+Name: net/fabricmc/loader/api/entrypoint/EntrypointContainer.class
+SHA-256-Digest: cx8fHLvvoXKFrD5lIt4d7O2jHpM1mPumLhVeD+94/ww=
+
+Name: net/fabricmc/loader/impl/util/version/VersionPredicateParser$Singl
+ eVersionPredicate.class
+SHA-256-Digest: je+QKKiSiTeBVg6GiifPTDdPslizUtunp3TUhrNUQ1U=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/IOrder.class
+SHA-256-Digest: xHUvHkDFRf+tJekjEYgTxbwsNS7mUfFhXag/2l7xh0Y=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Clas
+ sEntry.class
+SHA-256-Digest: yYI8ZAaArOXPs7GSXTmOiId714mSQmhBXMDuG5OibAA=
+
+Name: net/fabricmc/loader/impl/discovery/ModDiscoverer.class
+SHA-256-Digest: s7z8VpVu2AOXXM+uii8QRmssznmJZNMwgINP0wkBFos=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Glucose2LCDS.class
+SHA-256-Digest: ZmCMQvtpLeMorUc4m3pqnStH2ox+tHwLuWqjU0MXan0=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/AtAnnotationVisitor.class
+SHA-256-Digest: 8YpLrlUvMp7JvrNs0qBEzjgYDkmfeO1gVtwXG1mukZE=
+
+Name: net/fabricmc/loader/impl/discovery/ModResolutionException.class
+SHA-256-Digest: kRQV4wL56TbVMMC6c2La9DUKwFljmTMQRZu2pNNZGAA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ActivityComparator
+ .class
+SHA-256-Digest: tVPz4Paxfsx0kO8C5qpmSKoejPRXS2mjuRqB3n1X0A8=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/AccessorAnnotationVisitor.class
+SHA-256-Digest: hiPI/7Gvx4yo2dsTTaYXx1VsScBtZ6zQYnu9nDn8S5g=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/INegator.class
+SHA-256-Digest: RQ0aYzLCx9GN2rdhCfLOin3szpuiRB12+ryqFAa2WCs=
+
+Name: net/fabricmc/loader/impl/discovery/ModLoadCondition.class
+SHA-256-Digest: NbnpYdT00uD3zAYPrlDdFUK+NWCQgn8KpR1063cRhog=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver.class
+SHA-256-Digest: 28xdHGltUHgX+zZ0IucDymuXpF9+F9OIzqiCElnzr9o=
+
+Name: net/fabricmc/loader/api/metadata/CustomValue.class
+SHA-256-Digest: 0/kKcE4rQiW0qEHM5HMWCEA5/nQ/sqaWNSk1mjFdiCY=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/orders/RSATPhaseSelecti
+ onStrategy.class
+SHA-256-Digest: PvgI9aSbMHW5q9/5mLW6T2t37nohQnSfrbB9sCdpmNY=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ConflictTimerAdapt
+ er.class
+SHA-256-Digest: 9gjjbHZ0iqt+PKkiF08bub/LbsCDgHsT31zjvK7J1kw=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersionLookup$MethodCons
+ tantVisitor.class
+SHA-256-Digest: jIplB1o8Us134rcal2wl/RoNULrXzsPFFoDQ4WD7hZs=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/uti
+ l/NamedMappable.class
+SHA-256-Digest: u0LuZK9gMfvxGTpJbRDvSCygdag2M3IYee4kPxFcdwQ=
+
+Name: net/fabricmc/loader/impl/metadata/DependencyOverrides$1.class
+SHA-256-Digest: 0VT3lI0OJ/X2voDvVOXcxy5wqBeoMFNZmwSlruEGXoY=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/d
+ ata/CommonData.class
+SHA-256-Digest: zr2HNWC1qsEfVYNVWwlez+yyZVuRHALkHp8FLcHB79I=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/BinaryC
+ lause.class
+SHA-256-Digest: odMMO81VcSnrncGqmxj+VMwbADmXuTAnTl5ptQt1T+4=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/ImplicationNamer.class
+SHA-256-Digest: 78VhqBJkVRIPEDBA+4hMegm+2GGDIjBQwPrHEDgnjdI=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/MixinAnnotationVisitor$2.class
+SHA-256-Digest: Mv4oVdi0My5cl3bibR818h6gs29npnD1/S8+yaAnnWE=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$1.class
+SHA-256-Digest: Jd7tHAWu4N183qBDy67RLP3cuCn53GA0OsQwb6CDBLc=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree$MetadataEn
+ try.class
+SHA-256-Digest: +FYUcsivKmkCEV9u7MsPbakp4Us6VPByxACvcJErZzQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/OriginalBinar
+ yClausePB.class
+SHA-256-Digest: fpuT28+72XD67RY5D179M7K8HW6GHiGU1kn1aVKoQKw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/xplain/Xplain.class
+SHA-256-Digest: lxllivpiR87Sh0jPwV7pUHeB/+OwF2kkcgd7MKydjQc=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/OverwriteAnnotationVisitor$OverwriteMappable.class
+SHA-256-Digest: SNpGoHs9/8Tll37x3j5ZesyI8wlSfjt3cGZ4Cuca1eA=
+
+Name: net/fabricmc/loader/impl/metadata/SimplePerson.class
+SHA-256-Digest: 59LXVDyXA2zzoTIPgr3dGM6x2nCiUpAXwcsH9omKtXM=
+
+Name: net/fabricmc/loader/impl/discovery/Explanation$ErrorKind.class
+SHA-256-Digest: p0FyGhmGz2tLuvTdXEPXp310ZypFSG2VDr+FzHX7Qcw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Solver.class
+SHA-256-Digest: LvOOU8LHP4vQwgvuEnxMqPtPGPQOjXq7m16Ww2/eSQM=
+
+Name: net/fabricmc/loader/impl/game/GameProvider$BuiltinMod.class
+SHA-256-Digest: sFKyHyo7Tqlm3WnZ5MJhvfBcinH1BeRe2trRmf76mqg=
+
+Name: net/fabricmc/loader/impl/entrypoint/EntrypointContainerImpl.class
+SHA-256-Digest: uUL6ZfrO4GB6ysgseDtWFjTQLdUPRGF1Wor9rfHeGOU=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/EmptyVecInt.class
+SHA-256-Digest: lDbdk5GAsS/p7OXXU4Ue/l9TBLMO1zSe4pLT3CFKY1s=
+
+Name: net/fabricmc/loader/impl/discovery/RuntimeModRemapper$RemapInfo.cl
+ ass
+SHA-256-Digest: EPu+fbxU/un0wSii0Mu3+Bz7pMbR2gSeFLjArIOhZBI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/Pseudos.class
+SHA-256-Digest: FXN7qPniE6U8QfhrnUABkU33fNTqghDMEAS9fWJmMCE=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/format/ColumnFileReader.cla
+ ss
+SHA-256-Digest: oYO4oO+dVI/tV6E4OH37CwTgNSZfBRTL3Ss6wZdymL4=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree$MethodArgM
+ apping.class
+SHA-256-Digest: Ef5uZzW2FS3wt4k2G8IDraGJ5Uk4rf2YncrPsv5AdR8=
+
+Name: net/fabricmc/loader/impl/transformer/EnvironmentStrippingData$Envi
+ ronmentInterfaceAnnotationVisitor.class
+SHA-256-Digest: TH0qgTvFUswyjgqRjYp1TZm4TfjqmXBn4YyOt/k1Ees=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Meth
+ odEntry.class
+SHA-256-Digest: xRu2S8/xS7JCHpotZlNN3pTMYO6kEKMMfnXZGywfLRU=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionComparisonOperator
+ $5.class
+SHA-256-Digest: 6838vRfLVRgyI1hQO+XFEPaI8pxsNOHBN4asnoNiJ6A=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/MixinAnnotationVisitor$1.class
+SHA-256-Digest: KBxvnQHZUWzyIs1vgAkof6DgX4kt3Zuiq5iRKllAuB0=
+
+Name: net/fabricmc/loader/impl/launch/knot/MixinServiceKnotBootstrap.cla
+ ss
+SHA-256-Digest: G55DDFsBCSlMxWSx/P8C2ph+mn6KGDKWzmIUy4cgWZo=
+
+Name: net/fabricmc/loader/impl/game/minecraft/applet/AppletForcedShutdow
+ nListener.class
+SHA-256-Digest: EB4gqbRPfBJq1Sr3UOLLZzBKCJwfGQ4O1CkslTzRQwg=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionComparisonOperator
+ $3.class
+SHA-256-Digest: J3Y3cqHkPE8YkBVk2uo5jr7cG9QmuFdPoAxQGu/8mck=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/orders/AbstractPhaserec
+ ordingSelectionStrategy.class
+SHA-256-Digest: w7FZPY3cKOwQ/GRBl10G1miYSMh/ACZdk0y6In0PGzk=
+
+Name: net/fabricmc/loader/impl/metadata/DependencyOverrides$Entry.class
+SHA-256-Digest: m1o4om0SZ8Nw4xubNoTu77yD/tnGhc2uwI6tA7mawRA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/AbstractClauseSelectorSol
+ ver$SelectorState.class
+SHA-256-Digest: gOEBLWFdSPVXHdoQddqBNtwckHRckfGWL3q7nBs8lIw=
+
+Name: net/fabricmc/loader/impl/util/FileSystemUtil$FileSystemDelegate.cl
+ ass
+SHA-256-Digest: /nZQBz3RuJnCKGMaPgDk/vPMjUUpojZ9g6Df8PA7FzA=
+
+Name: net/fabricmc/loader/impl/util/log/LogCategory.class
+SHA-256-Digest: fVWqQoPQj+b4CLpa3MkKs5qai450Eg5VU0zxaoON9ZM=
+
+Name: net/fabricmc/loader/api/metadata/Person.class
+SHA-256-Digest: Q6HkVfsNBCTRoYEWe2d+aXG2cmnDooN3UIas0//wUe0=
+
+Name: net/fabricmc/loader/impl/metadata/V0ModMetadata.class
+SHA-256-Digest: sTwxh+hST5Ib6apQ+gffLnpdIMGnnEsu1rj1CWzX+VI=
+
+Name: ui/icon/fabric_x16.png
+SHA-256-Digest: lHZ6Rpvmoi07ytWiFDMUazE/ChPwQzH7Z3sK0KpiJlI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/UnitCla
+ use.class
+SHA-256-Digest: eCm/PDOF//+ZshNHJY7sZHmWt2UdQrrKMA1CiCYMALI=
+
+Name: net/fabricmc/loader/impl/util/version/StringVersion.class
+SHA-256-Digest: EXq/oNMFsVEkJGD9n+ztuAuVhN5GpUQ3gkmH1kps/iI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/tools/ImplicationRHS.class
+SHA-256-Digest: mG0MDcITyi1lNKzkgRacTKJdUfvQJxTr+HpmXQq738o=
+
+Name: net/fabricmc/loader/launch/common/FabricLauncherBase.class
+SHA-256-Digest: IhGqt1VEOo05j4hXOAgSV+2UUl7WnEE1X68dtokg9uY=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ActivityListener.c
+ lass
+SHA-256-Digest: PUklLkhqOdvH61REzLjR3prCvkxfgM7LqEOl9JEOXVc=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/OutputConsumerPath$Resou
+ rceRemapper.class
+SHA-256-Digest: kw6vAvzxGEwbXSunuB3qNYrn0ElyCWn3++43v+r1BBE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/orders/PhaseInLastLearn
+ edClauseSelectionStrategy.class
+SHA-256-Digest: UID3Nm3XkyKI/c5jY/YIz9dc177w8+WhPOlv6kMVuwA=
+
+Name: net/fabricmc/loader/Messages_zh_TW.properties
+SHA-256-Digest: O7OWuWNV3GMoLTJ7l30OQm6poSYyM7q7zhuiao1ffI4=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/ModifyArgsAnnotationVisitor.class
+SHA-256-Digest: 9XAdzT7bKSIgcrrZRsA8eDWf2DdJemVJXVdbqqDEU9I=
+
+Name: net/fabricmc/loader/launch/knot/KnotClient.class
+SHA-256-Digest: AoPHPIbnbMOouFCdA3hCW6WJXux0BC0IPhZQicWBNvo=
+
+Name: net/fabricmc/loader/impl/util/ExceptionUtil$WrappedException.class
+SHA-256-Digest: UNxSKCr6WeBC9JNLVWeVGu1WXw38dM0avO8yTK18/uU=
+
+Name: META-INF/services/org.spongepowered.asm.service.IGlobalPropertySer
+ vice
+SHA-256-Digest: eSBES7ntqg71Xgda3jZnJgT2ERMolwpCnfy/A5Xk/3I=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/Constr.class
+SHA-256-Digest: jDsuS9oTZQ52mKDKdLuuAO5Zd8LihRPCtli/XLL/Cm4=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$ClassM
+ appingView.class
+SHA-256-Digest: JmCPj1lNIv6LOSMMbqG3K0dCvz5kaECGfnZKxR7HunY=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/Lbool.class
+SHA-256-Digest: 4TZrscxUsipfuLPnCBKENBPUKqvIefhKHdYNvsimtAA=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/dat
+ a/SoftInterface.class
+SHA-256-Digest: W940vUU4lZ5jke+wMMrkf8bOw5QpBnsxTVG0f7aBr8Y=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/OutputConsumerPath$Build
+ er.class
+SHA-256-Digest: lRZEcLqNaEdMDcVY6rt4qDOq7cpIDs+zWw0gHhXGbvA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/WatchPbLong.c
+ lass
+SHA-256-Digest: O9n/Ko5gnFTSXT9MubuONclp6VLoYpHUxTw5WObRu5Q=
+
+Name: fabric-installer.json
+SHA-256-Digest: yGUFlger0sayz9fD2MTp77gCXupCGhsqWxPpIQ793eM=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/CommonInjectionAnnotationVisitor$CommonInjectionSecon
+ dPassAnnotationVisitor$2.class
+SHA-256-Digest: /cBTWIeCvMnNdMCiAgPMrlPZEatYwvMoF1eed6oldZ4=
+
+Name: net/fabricmc/loader/impl/launch/MappingConfiguration$1.class
+SHA-256-Digest: 5kiEwxITdbMN0yu4Z7uNYXJcC2u1iEhaPIrQD5l1gzA=
+
+Name: net/fabricmc/loader/launch/knot/KnotServer.class
+SHA-256-Digest: ycRbI6uYIo/3mpw0vXR+44+Q1X6x7rBdv8MPb4Jw7/c=
+
+Name: net/fabricmc/loader/impl/game/minecraft/patch/EntrypointPatch.clas
+ s
+SHA-256-Digest: CLmS0o1QISPqcBl50GVumkoNMFg6pX223Ao4MET/Y3M=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree$MethodMapp
+ ing.class
+SHA-256-Digest: edIBKY7Xj5gXpk6uvvqQcx1KFBRs3i6PA1hmavggys0=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerVisitor.cl
+ ass
+SHA-256-Digest: /GuZIHAbUka7MLuqPRuSibWh1wEhylyddmT6+eRimS4=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/format/tiny/Tiny1FileReader
+ .class
+SHA-256-Digest: fEh8wM5QWpMX6JlSzty1RHtfKQJhEf3/dPbCU1orHeE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/orders/VarOrderHeapObjective
+ .class
+SHA-256-Digest: axuD/cN2TMtJSEGBGdENudaQ4fFtH+XW+l/HnwclRnw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/ReadOnlyVec.class
+SHA-256-Digest: FfnOJ6pxATgjHfa+XIszTfOWO8U339yTiSkZR2xt054=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/ShadowAnnotationVisitor.class
+SHA-256-Digest: giJuAiVyKqOP8YFwdMQx8i8v2u31GgRlLVlHCqp+h9o=
+
+Name: ui/icon/decoration/level_error_x8.png
+SHA-256-Digest: b+abUC/uLT0SB2qZD+AjXsK7WHnEa27xdq223j5I0gw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/Lits.cl
+ ass
+SHA-256-Digest: o49/6uDowE9uE8dH2waUDwU//+XV06Cp+anrgQrAXpY=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClassLoader.class
+SHA-256-Digest: c4hZ6eBxFDZ98Dk5tOi5IfqlsWvOzF2GyFCGMeffNDg=
+
+Name: fabric.mod.json
+SHA-256-Digest: qfm9/o63EtY2vZA9/uTjYtw1pbA3vgjrNGJRnPTBO4c=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$Propagation
+ .class
+SHA-256-Digest: fDMvZWTWA6poivWRCpzl8Ak6l61WYaAdrdYbVMtuP6c=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/MixinExt
+ ension$AnalyzeVisitorProvider.class
+SHA-256-Digest: IWruIz3OJOIrKmYFXkhK+8EluUpTAVO7huARmsCQafY=
+
+Name: net/fabricmc/loader/impl/launch/knot/MixinStringPropertyKey.class
+SHA-256-Digest: n4vBDiYSlbJlWBW6NPEIYcMc/D43GhoQ1mblvrdXuWU=
+
+Name: net/fabricmc/loader/impl/discovery/Explanation.class
+SHA-256-Digest: 8As0cS6sDJeghPXWrIkTqm+zHTG+NlsKqiE34EHljR0=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView.class
+SHA-256-Digest: 4loLLV4RuT1NTUIVaxCP2RwHgzL4pW3y0y5pTu1Mp+A=
+
+Name: net/fabricmc/loader/impl/metadata/BuiltinModMetadata$Builder$1.cla
+ ss
+SHA-256-Digest: mYHsnSGROsFVKnizlvr7IEQI8AklMxpvsg54WDT0AY8=
+
+Name: net/fabricmc/loader/impl/launch/MappingConfiguration.class
+SHA-256-Digest: TY48wAdAOfJrN/jNEX/z1nqN01cKvokTth5mZRZmhnU=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree.clas
+ s
+SHA-256-Digest: eNaiH3fVTmdN2rdbJ/HgELkSekmWS10Kvs0jF5hlLds=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/IClauseConstruct
+ or.class
+SHA-256-Digest: MOFXa55bOAYSdX9AXC2BUiNUqpicZMoUEwWw2OkdOSU=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionPredicate$Predicat
+ eTerm.class
+SHA-256-Digest: XAqwQXNLMAxOq1LvzV2jske1mO1ObXwQmq9h1AQtEi8=
+
+Name: net/fabricmc/loader/util/UrlUtil.class
+SHA-256-Digest: bu/9Nmgli83ndjhJfY96XJ0mftMDTZiPHy7kWmNbRbE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/IDataStructur
+ ePB$1.class
+SHA-256-Digest: Klrxv9EKXsH20DthG4nPwS9WS/sUp5i6XQIPo54z0vw=
+
+Name: net/fabricmc/api/DedicatedServerModInitializer.class
+SHA-256-Digest: CkJuixrwdGjvskrAi1q8ufznbOyYI1rzWAtExTe5dX4=
+
+Name: net/fabricmc/loader/impl/discovery/RuntimeModRemapper.class
+SHA-256-Digest: FWkzXTkcUEFcX/5afXjif5KmTli9ulnjF9BhjdTuDwE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/LearningStrategy.c
+ lass
+SHA-256-Digest: exwi/LTFaMp3nNGY5j0Az7hWW/oWCIW89RUWM6rxLR0=
+
+Name: net/fabricmc/loader/impl/discovery/ModDiscoverer$ModScanTask$2.cla
+ ss
+SHA-256-Digest: PUpFdvUa//t6PcWu5jPg0qS8sLnUMMK3FiH9HINP/AQ=
+
+Name: META-INF/services/net.fabricmc.loader.impl.game.GameProvider
+SHA-256-Digest: 3dDb7unUqEav6ixFfkV5n+prysVzq2tC/TrjiIzjGBI=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$Fix.class
+SHA-256-Digest: n4bpuAcr7JIJjrRIkW+hjyOLqtcrA5sOXVGIDsOTxX4=
+
+Name: net/fabricmc/loader/impl/metadata/LoaderModMetadata.class
+SHA-256-Digest: hVOKBRIDxHDg/Xy25aIyTQy/40wph5mcaUfs2CwQEWs=
+
+Name: net/fabricmc/loader/impl/transformer/EnvironmentStrippingData$3.cl
+ ass
+SHA-256-Digest: bP0hBr0Jo8EH61DtH685wBSGTEiTSkVD606fMpej0cY=
+
+Name: net/fabricmc/loader/impl/util/ExceptionUtil.class
+SHA-256-Digest: gWDRey3VI5OqaGs4u8KV/JBLqW4o5/B+vgEaENZpw1A=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadata$Single.class
+SHA-256-Digest: 1Xsd/uTGhHxckVhHCdLCW8tP1jrIvnb5016IRiS8WOg=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$Member
+ MappingView.class
+SHA-256-Digest: cFIzsABEUFXi3CwJvqMXoILoswFd56wXwVivRgN9CeE=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McLibrary.class
+SHA-256-Digest: 0vXJrA02xPbWLrmZCUM8Ts8s89GgE5LLFc4UjFEg100=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$Method
+ MappingView.class
+SHA-256-Digest: Joj8N8/ebhNlfw3c9oT8JATMixtut30P5m6/Q4K/Jis=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/api/TrMember$MemberType.
+ class
+SHA-256-Digest: XLwt5ghpzhddpy601OYZ+uau92dluoFMLR71RlarloU=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/SearchListener.class
+SHA-256-Digest: qTHv++/2V3r89fvZ4uSeSexFhP4YdUC/Hqbvr0l+uWI=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Meth
+ odArgEntry.class
+SHA-256-Digest: 3odjyFWUr22hwdizWlz2KHEtnRHkL4xByC7/OdLiMUQ=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionComparisonOperator
+ $2.class
+SHA-256-Digest: +htDB6AGJqP22hdING3fZxyASd2cjRqNMT5TUWnpNRE=
+
+Name: net/fabricmc/loader/impl/metadata/V1ModMetadata$EntrypointMetadata
+ Impl.class
+SHA-256-Digest: aKCCF4t4FAMi01RHKbFFRk/2b9VMC+DvvTcLYjwqnhw=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$Builder.cla
+ ss
+SHA-256-Digest: mcME4SF2HyBdF82vEXtHRbzCgj4WQ1Vd5+EMsEFod10=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotCompatibilityClassLoader.
+ class
+SHA-256-Digest: w4MRVp2rYIEaOzMk8dH0SS8JbRhYkwRPtnD+QqZSxSk=
+
+Name: net/fabricmc/loader/impl/transformer/EnvironmentStrippingData$2.cl
+ ass
+SHA-256-Digest: tS5kL12PImdmGKJczupDuCz9KVtV5Vc2cSCfjklUDas=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/S
+ tringUtility.class
+SHA-256-Digest: rMWLXhteGOpls0kVS7k/aastFz0mdVyB63xtesqDwIE=
+
+Name: net/fabricmc/loader/impl/gui/FabricMainWindow$IconInfo.class
+SHA-256-Digest: JGDhpcU9A9icyDLq+nBqu7EI8gN5yc174jSbeBkwH+o=
+
+Name: ui/icon/folder_x16.png
+SHA-256-Digest: WHnKsy1gK+pkR9Nr9cehV0HAOwWFacv3a8wIp5Q1E0Q=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$Extension.c
+ lass
+SHA-256-Digest: a9pCWuS13z1EzG0CRxg0QK83/6OniISMFxGh5t0i974=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClassDelegate.class
+SHA-256-Digest: Do4BguHsLDirRGiAF8ZZ+FF07Hz+Rkezwe+PnR6vQQs=
+
+Name: net/fabricmc/loader/metadata/LoaderModMetadata.class
+SHA-256-Digest: RRTIsHrf9vj7dsRxzE+jGE9uRnO3nPyQsvoWd7I2/lc=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidener$FieldAcce
+ ss.class
+SHA-256-Digest: pyRxN5Xq/mvM2WYBQsFpBL7oEF/oMu2dPyJX+9/iuo8=
+
+Name: net/fabricmc/loader/impl/gui/FabricGuiEntry.class
+SHA-256-Digest: Fumx+Nqt90U05KtXABSquzkny6dam2qqAXlQTKCZEDY=
+
+Name: net/fabricmc/loader/impl/metadata/EntrypointMetadata.class
+SHA-256-Digest: /09lGvFeLXJtXQLG49h356k9Uo/hAZCsijW4xqbW+WE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ConflictTimer.clas
+ s
+SHA-256-Digest: KYNeWJQjaG3SQaJ6TKgj5nXWSuSZvuZMkdmIIs/g5eU=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$AddModVar.class
+SHA-256-Digest: uBDq1jxIx657Qn1HGsMC9gY+3c3UnjyI/bYmylREBoE=
+
+Name: ui/icon/jar_x16.png
+SHA-256-Digest: DkEIKcGs0WD47z2zIsWSWmp+Sx3t2Ykhr32eCW++yuU=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/Har
+ dTargetMixinFieldVisitor.class
+SHA-256-Digest: UF7zH3FiIXnxgc6/kFajRh4P6OS0aKr875XhX6QR+Ks=
+
+Name: net/fabricmc/loader/language/LanguageAdapter$Options$Builder.class
+SHA-256-Digest: 7KIwwSiagU/8Ei8Ogg4oa2pLe9PTXoVCnpjMjcQFjVM=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/AccessorAnnotationVisitor.class
+SHA-256-Digest: g2wJvXQ9T/v5wKpuzSk+zjKNsaAeGqKkhAAJxnIDBVw=
+
+Name: ui/icon/missing_x16.png
+SHA-256-Digest: KAcN9FBEDuOq20g6CR8eRM913GxT8I8+morqAKtP8Uc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/RestartStrategy.cl
+ ass
+SHA-256-Digest: e4Hi59sRQvZ+g/xPLSJoan/labH9+MdY0sZamGxxbKs=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/tools/SolutionFoundListener.cla
+ ss
+SHA-256-Digest: QUcggJWqB+qPGYnjU7Ylqvtjt4q2Z4bYSwMGDQ34ZdE=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidener$1.class
+SHA-256-Digest: KU5k2HI1nBPFHaR2IAokG07GWLKtZY6roXWh042vTDI=
+
+Name: net/fabricmc/loader/impl/discovery/ModDiscoverer$ModScanTask$1.cla
+ ss
+SHA-256-Digest: C7j7XogSx+f9hmAlwmwfOpcNka75s9X5er0qWuAz9v8=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/SolverFactory.class
+SHA-256-Digest: LpY8CrvGirSolV2/9/j7LVBKZt0ExS3A7RtMkqXadfw=
+
+Name: net/fabricmc/loader/impl/gui/FabricStatusTree$FabricStatusTab.clas
+ s
+SHA-256-Digest: w4KuDd47l9at8bPK59ZCD1nDdO4vIpL+w9cJh9aOIH0=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/LiteralsUtils.class
+SHA-256-Digest: vEJOoAF/XgpgqznOr1tcmFv9gjKQLaUHUjfZhA80M5A=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/WrapWithConditionAnnotationVisitor.class
+SHA-256-Digest: UXgzc50lkNznmcJGGqVEL1gb0kfbH9EySSj0kYwapFQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/AsmClassRemapper$AsmReco
+ rdComponentRemapper.class
+SHA-256-Digest: SJEagK+2i5Xf4ZHMCJ8d4LNCsz2OMmnN7S1PjmAjZAU=
+
+Name: net/fabricmc/loader/language/LanguageAdapter.class
+SHA-256-Digest: qLliiKoDXMZdoWSKsGS2bKME5kB/1bR1/1IoSKtxfl0=
+
+Name: net/fabricmc/loader/impl/transformer/EnvironmentStrippingData$1.cl
+ ass
+SHA-256-Digest: sSn3k7b8F4bP2MkGyEA/qbockLQ9Dm0oapbDMooMyHc=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/PBSolverDecorator.class
+SHA-256-Digest: yawB/CQXSRhwG6bzRSAaSEYxRogqqqb03LNH9C+yWnw=
+
+Name: net/fabricmc/loader/impl/game/minecraft/McVersion.class
+SHA-256-Digest: nKA2YUF4ztjZK0XucM+nkjQVAUKJZhgfMcZMi0RmvVY=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree$MemberMapp
+ ing.class
+SHA-256-Digest: wieewuTp1CDoWuhjAsoRYAtcJ6bFrpL403PWwGaWQX8=
+
+Name: net/fabricmc/api/ClientModInitializer.class
+SHA-256-Digest: LO7ERbvhNdFOSrFHsc01qyOq2VbQsG/pQE3RWnJ4zDI=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree$ClassMappi
+ ng.class
+SHA-256-Digest: n9AXf08NsagcITbOCjN5cTU1xRTEQwoynqeDlQ2OUAM=
+
+Name: net/fabricmc/loader/FabricLoader.class
+SHA-256-Digest: mCcd+3mQeWRfmqUgIelCHjvcPRL0Svt3B7GwaLfoSf8=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidener.class
+SHA-256-Digest: 8BTa4dfgOofLyhrtw+XqH/YdujG0h3igpyXNIWrsBMI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Heap.class
+SHA-256-Digest: pwtRN81+WxFUSZKvJrfFJ0j63nFpel1HeHZ7+66Sap0=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotServer.class
+SHA-256-Digest: GZSZG5oR+QwzFbUzBINn4xkzAAvkDSUkRPIHZOFHuYk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/ASolverFactory.class
+SHA-256-Digest: I9/j30uG73CKAS/eu3p3fJBUcBoLlQuuaPhoRrRi/7k=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/d
+ ata/MxMember.class
+SHA-256-Digest: XXMg0+AtmqkgTDQ2S5WZuZZjBOIm10E2aIWD/U9xKoY=
+
+Name: net/fabricmc/loader/Messages_es.properties
+SHA-256-Digest: NA1O2WhxKCTZQSIaMFJPenqDqDwKdWuj457+AsA2IgQ=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerRemapper.c
+ lass
+SHA-256-Digest: KoIc7/OgcGwWYX5ifeCrH988ekvFfkGEVyDmsa3oLqk=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/AccessorAnnotationVisitor$AccessorSecondPassAnnotationVisitor.c
+ lass
+SHA-256-Digest: 0GaDKvtbPOrbea5PCT9lQ8HTscUk/bxdj55V7nsdiQ4=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/Vec$1.class
+SHA-256-Digest: 9vMl9EkdyuZwZ5lwEHt8QRH1MGJu5tWRdQ8e48Pyb1k=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/common/d
+ ata/MxClass.class
+SHA-256-Digest: 2RF4ahsEEvZ7430w7evE1XQYLkR16crjjsn9maLZBPU=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/ModifyArgAnnotationVisitor.class
+SHA-256-Digest: BWbE1DPtdUSuCS25fRjJmTdGvH//UtiTPVbjBrFT8A0=
+
+Name: net/fabricmc/loader/impl/discovery/ModDiscoverer$ZipEntrySource.cl
+ ass
+SHA-256-Digest: oWlqbSF6RUvskPF6eaLS9D2NYVxLkZgD3k4qbRM8rnw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/SearchListenerAdapter.cla
+ ss
+SHA-256-Digest: GRaU6v277HRkal3ihV13WE8SiYljkrKu5laL5XzPPzM=
+
+Name: net/fabricmc/loader/impl/game/minecraft/applet/AppletLauncher.clas
+ s
+SHA-256-Digest: ytPeKNHJBdBCBV4b74JI2J64qn183ur5l+3PQAA0Er4=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/CommonInjectionAnnotationVisitor$CommonInjectionSecon
+ dPassAnnotationVisitor$3.class
+SHA-256-Digest: VuLVabUNPFYl9fx5F7ub/ZJpVmkA6MscMZmM5yKNtXo=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/IVec.class
+SHA-256-Digest: +m84yR8o5ue1ZDOLn1XFFbdwESyg97qQlG1ZNEWfOzg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/MandatoryLiteralListener.
+ class
+SHA-256-Digest: mDQ5yWaNzAJANiWn6zULvRM1KulHTwF2IfmELvy/GAg=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/ModifyReceiverAnnotationVisitor.class
+SHA-256-Digest: +cacpMui/NThxTnftwN3Ma+Me1w8jm2iY39SaNFrov4=
+
+Name: net/fabricmc/loader/api/metadata/CustomValue$CvType.class
+SHA-256-Digest: Zh49oa0DnKdBVVeQtkjP88UBwBVc+FayU6H0YFvrJXA=
+
+Name: net/fabricmc/loader/util/version/SemanticVersionImpl.class
+SHA-256-Digest: OfqzjHb0QYvmZWRIHv5C1ujliLp7/MTkmvUAvpYD1eU=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/orders/VarOrderHeap.cla
+ ss
+SHA-256-Digest: suxKDDmTYo/3MUUJiLzEB+sPP7ornd6CmnukCgnMnQo=
+
+Name: net/fabricmc/loader/api/metadata/ModEnvironment.class
+SHA-256-Digest: u58xh2/1+OJkLd7R8Ubi+89/v8muM+mtFEpYWFenS2g=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/AssignmentOrigin.class
+SHA-256-Digest: ZOt+YavgXJOBmNktBey/dhaPmptiuTg+cssW4l2ykqY=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/constraints/cnf/LearntH
+ TClause.class
+SHA-256-Digest: UTGeu+gy/MXcR3/nNqEGJscrY8xV/wTDizaIaXuNnDI=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTree$ElementMap
+ ping.class
+SHA-256-Digest: Vwcd8PtdM8XJwy1kRSD/of5zgqEi/5B1wCWjDT8QBGM=
+
+Name: net/fabricmc/loader/api/FabricLoader.class
+SHA-256-Digest: KeV7R6nFXegb2B7hki4cQNBVYlDdDtpVd8X3fzDmNm8=
+
+Name: net/fabricmc/loader/impl/discovery/RuntimeModRemapper$1.class
+SHA-256-Digest: B8Ei++hRbBAkm9PurBRxLDcAU0Fk3wXLjenuaaVPHLg=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/format/MappingFormat.class
+SHA-256-Digest: p8Franp9/v1eKEy5vgPhkA3eavS1JsRGha7/NGLz2lE=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/PrimeImplicantStra
+ tegy.class
+SHA-256-Digest: qk8wzwcNOSBlkTm8f4MHn2Mv4Fq/pIWSP5CFZr4XhZM=
+
+Name: net/fabricmc/loader/Messages.properties
+SHA-256-Digest: sUpXzQp51D3w9xO05BW+axifMXX7clFgIn3hkLoR/dY=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$1.clas
+ s
+SHA-256-Digest: TEqf7tKG8smEaZ0g0z93I2ikJK5bUBdmPI4KHO1pPRM=
+
+Name: net/fabricmc/loader/impl/game/minecraft/patch/EntrypointPatchFML12
+ 5$1.class
+SHA-256-Digest: +MlQgU9MX7tF5yO7pWyPekLqtSvWo3ifItflFdZK3JM=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/VisitableMappingTree.c
+ lass
+SHA-256-Digest: vNHG+puHmYq5L9xru+5UbBikH8GsSBu21mzXa3uvV68=
+
+Name: net/fabricmc/loader/impl/util/SimpleClassPath.class
+SHA-256-Digest: b+GmLLgbE8m0vE0jfgoRbioQPQnK7yCGXM+neRkfzrA=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/OverwriteAnnotationVisitor.class
+SHA-256-Digest: bcIS3yYjey+iwCr668kFa6BKfTn/TyKbG69f8yekilU=
+
+Name: net/fabricmc/loader/impl/game/minecraft/launchwrapper/FabricClassT
+ ransformer.class
+SHA-256-Digest: cf0wCmHGNi15skxGNbabckj+cfGZrhBXmBH2BVNCCcU=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/ann
+ otation/InvokerAnnotationVisitor.class
+SHA-256-Digest: z1WcJEZH13vijT6f7F+VuWYaVvQ9zwIKB/QO1ScVwWQ=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MemoryMappingTree$Meth
+ odVarEntry.class
+SHA-256-Digest: kp/7pi8s2+v82LdXmGOCaOWuB5Y5D/nvUmwOFZWJYAY=
+
+Name: net/fabricmc/loader/impl/discovery/ModCandidate.class
+SHA-256-Digest: SRv7q02WKOq6c+7ndZ8rixRqh72giCQiXsPiZLmcSDA=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/TimeoutException.class
+SHA-256-Digest: AF+qn1N3IYfazDB5p8niNLcHhEkehzLoh4QBm3pQmVM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/MinCardConstruct
+ or.class
+SHA-256-Digest: fUcfYmNaH+g7MvZZEfXqPy52K8TomwwzjfVIAlfx8CE=
+
+Name: net/fabricmc/loader/language/LanguageAdapter$MissingSuperclassBeha
+ vior.class
+SHA-256-Digest: p4EvfKdBkqMGBt9RmwajfEbcLHEhaxJgpYlMP754+2g=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/MixinExt
+ ension.class
+SHA-256-Digest: ex8cWagX7H0+KHwV2BnA0Ob4oPmV4HLDigI/dr2CSGE=
+
+Name: net/fabricmc/loader/api/ObjectShare.class
+SHA-256-Digest: xyyleyDxdQFBYV/sZ89vgVLK/HIWSm3Fzq5+cgZ4acQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$MrjState.cl
+ ass
+SHA-256-Digest: XY+tWcZ0bc/qXelHOT7v9BasTueYjihDH8vvKJ4Nizg=
+
+Name: net/fabricmc/loader/impl/game/minecraft/launchwrapper/FabricClient
+ Tweaker.class
+SHA-256-Digest: im81EOs9/xODtijQNJnN47H+v54buWyydxh/hZ4T4eA=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$1$1.class
+SHA-256-Digest: FqKnL3fFDlJTNZ5noxo+cNFPXwj5m6WzY7ouJ+Rxo1w=
+
+Name: net/fabricmc/loader/impl/discovery/ModDiscoverer$NestedModInitData
+ .class
+SHA-256-Digest: IeKL13zBNv23C+tKmRvV1vFxHBNaTcMcd4TL4bbKZU4=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/AtAnnotationVisitor$AtSecondPassAnnotationVisitor$1.c
+ lass
+SHA-256-Digest: E5YW4whzqQT2d3icr9MeavUXTRX6d71/en3B++6SKao=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/FirstPassAnnotationVisitor.class
+SHA-256-Digest: 9VhQTVVS+3wR2HMA4yXZ3b+4Xhxq+2yLb/uuFjQMIzw=
+
+Name: net/fabricmc/loader/impl/launch/FabricLauncher.class
+SHA-256-Digest: S2oiva6Mq065BBWde3FvlsY1kNjMfOJG6m/14IhbLdg=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/WatcherBasedPrimeI
+ mplicantStrategy.class
+SHA-256-Digest: iylxz2XbINger7yoihCVupHXWZHduuemCFbuBhhyL5w=
+
+Name: net/fabricmc/loader/impl/discovery/ArgumentModCandidateFinder.clas
+ s
+SHA-256-Digest: 0XB8bIQLGBANkulDDKU5U8JUTDttiJYxgeFUvpbiEbI=
+
+Name: net/fabricmc/loader/impl/launch/server/FabricServerLauncher.class
+SHA-256-Digest: +hUNoOKMJZMUl2Jgg5cLP4bxTAN/jU3GP/VlVqR+RAI=
+
+Name: net/fabricmc/loader/impl/metadata/V0ModMetadataParser$1.class
+SHA-256-Digest: dSLBIvE68HcWUb1LWXny8z4XVAgTfdwAdBZfs7I2MOw=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/ContradictionException.cl
+ ass
+SHA-256-Digest: /AyZgR4T9oiFUZ+ipmgBNRV0onpoRcFpKyBoAsly3E0=
+
+Name: net/fabricmc/loader/impl/discovery/ModResolver.class
+SHA-256-Digest: d7ifE/e5kODysh45DzHEFAZfEbwIe1NfIJ58cxwqezA=
+
+Name: net/fabricmc/loader/impl/game/minecraft/MinecraftGameProvider.clas
+ s
+SHA-256-Digest: Z5k9HLNGcJmdleimuJhhAxhgd4g2l7qjxeOd6n7T9eQ=
+
+Name: net/fabricmc/loader/impl/metadata/ParseWarning.class
+SHA-256-Digest: aX/QEqtCw3rm+T1lQ74+WLSlrFGQTJ0J3aB77d74fXk=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/Counter.class
+SHA-256-Digest: hcwHDFqfYY11fzD7ApIJX7XudzVLnvd7ngWLjovNI1Y=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/OutputConsumerPath$1.cla
+ ss
+SHA-256-Digest: 25C5sHrvzx74v+N4iQuXkvqSkhJBcltnmP2mvw2C170=
+
+Name: net/fabricmc/loader/api/metadata/ModMetadata.class
+SHA-256-Digest: Kk1edjflUwhZM5lRy9+tAXu3omloQ7lAYXru8WI2Uqg=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/soft/ann
+ otation/injection/CommonInjectionAnnotationVisitor$CommonInjectionSecon
+ dPassAnnotationVisitor$1.class
+SHA-256-Digest: Z2WXvUJxthIFCBZjO5T5y39wBX0b50yPdF1zZ5jCo0I=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/ICDCL.class
+SHA-256-Digest: v0EiYAwBWLt7eEosTQmtW+AOAEKswaFQqsSMgQ6J6Lk=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/adapter/ForwardingMappingVi
+ sitor.class
+SHA-256-Digest: 6QiokdynToua9rsR96A70qQKN2KgwyHFtarFaIQdNVM=
+
+Name: net/fabricmc/api/EnvironmentInterfaces.class
+SHA-256-Digest: j8zL4fTaD9GPF7H1MQJ59eAZhJDCInvGA570unOp+7Q=
+
+Name: net/fabricmc/loader/impl/lib/accesswidener/AccessWidenerClassVisit
+ or.class
+SHA-256-Digest: 4UvRumbCE85cVh/EEGInbiCOKUUTbTbfVgJUsYAV1Y0=
+
+Name: net/fabricmc/loader/api/LanguageAdapterException.class
+SHA-256-Digest: 6n+poLWbC2CLqrqU4lyyRBZxRJ8LwSXrGS18m+mHsO0=
+
+Name: net/fabricmc/loader/api/metadata/ModOrigin.class
+SHA-256-Digest: GOH5GaZW4j8dt/zL93BJTMsdZ5WMfxu5dGrmE+9Mqtg=
+
+Name: net/fabricmc/loader/impl/launch/knot/KnotClassLoader$DynamicURLCla
+ ssLoader.class
+SHA-256-Digest: w7+Apy+CzULKnJ1XIQ+Im1w3N9uuApOhOnSRYrl0SgU=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$Result.class
+SHA-256-Digest: 4vIxrHuNZaaiDK1s35nYVze4JDtedqqN3THmjXL2yb4=
+
+Name: net/fabricmc/loader/impl/lib/mappingio/tree/MappingTreeView$FieldM
+ appingView.class
+SHA-256-Digest: D6EVnGHGn1Drk3DSRLH2uiRcISqMpTnMtN1U8HCecFA=
+
+Name: net/fabricmc/loader/impl/discovery/ModSolver$DisableDepVar.class
+SHA-256-Digest: COD7qek3nMC9E93TmxleFoWXJU/Su8JoCeeooB2JKZ8=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/VecInt.class
+SHA-256-Digest: ZYcuqpHWrAUEzo3RndHv4WS9VwZa0hYTIIFt4HoyQBM=
+
+Name: net/fabricmc/loader/impl/util/SimpleClassPath$1.class
+SHA-256-Digest: rgIkE9KSw4ZnmE4IKeJKkXm5lGkf264JOI8PC79mMcQ=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/TinyRemapper$LinkedMetho
+ dPropagation.class
+SHA-256-Digest: LuamrFby+7r3WkbE1cby+S6t3FUk1oZrL2pyQUDreEg=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/api/TrMethod.class
+SHA-256-Digest: TXAyG3UwsaXR9VrL5PwRq5P6JxoXl3zGgDoPw9qP6Oc=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/extension/mixin/hard/uti
+ l/HardTargetMappable.class
+SHA-256-Digest: z1HxXT5yzOjLx+IEuAcvSOyg1qU9CSMR8CTUQmnlO4I=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionComparisonOperator
+ .class
+SHA-256-Digest: qqOvveXXt42vTi9SifkbyIrMulBwEKbUSW3OdQQ+ehI=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/core/VecInt$1.class
+SHA-256-Digest: 4at3yJWyE7SWqBVV104/ES9fKBO+JW8z+3WRv5MHWuM=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/pb/constraints/pb/MaxWatchPbLon
+ g.class
+SHA-256-Digest: +xNhKbdWJiBQqCRhnkvp257hAydOUJ1RWSfZ2Phcbek=
+
+Name: net/fabricmc/loader/impl/util/version/VersionIntervalImpl.class
+SHA-256-Digest: 3JoUHvjV+VJsrj4JFCBi8+4QQOYHnwKFAnmwxqTQmzg=
+
+Name: net/fabricmc/loader/impl/lib/tinyremapper/AsmClassRemapper$AsmMeth
+ odRemapper.class
+SHA-256-Digest: M+cFrVSIbxxvV02hH/mSgBkKToWRwHLoKEkHUcazSj8=
+
+Name: net/fabricmc/loader/impl/gui/FabricMainWindow$CustomTreeNode.class
+SHA-256-Digest: QKelRWlOCmam6kuMTJ9416pqyqO5/zTwcERErs+l9iQ=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/minisat/core/CounterBasedPrimeI
+ mplicantStrategy.class
+SHA-256-Digest: QM+o1YxXLkb/Tk2IOAJm+d1POxGcNdxr5KnzlI1f/ts=
+
+Name: net/fabricmc/loader/impl/lib/sat4j/specs/UnitClauseConsumer.class
+SHA-256-Digest: /kJur3PVXz3GoTFnty83sLioA6LjZFaWMG0lVyB8qWQ=
+
+Name: net/fabricmc/loader/api/metadata/version/VersionInterval.class
+SHA-256-Digest: AjVVkLtlIDpFGKrDfVT9lsB+n+avUTN6rFE0XsHeyAE=
+
+Name: ui/icon/json_x16.png
+SHA-256-Digest: JesnQ2pqBmRHDl4W1oh1jvbEJPZQ3vFYjoPqW2WYND8=
+

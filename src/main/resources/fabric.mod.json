@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "stellar-core",
+  "version": "1.0.0",
+  "name": "Stellar Core Engine",
+  "description": "下一代 Minecraft 性能优化模组。三层递进架构：渲染层（八叉树剔除 + 动态LOD + 区块缓存）、逻辑层（区块状态机 + 实体AI惰性化 + 红石快照恢复）。",
+  "authors": [
+    "StellarCore Team"
+  ],
+  "contact": {
+    "homepage": "https://github.com/stellarcore/stellarcore",
+    "sources": "https://github.com/stellarcore/stellarcore"
+  },
+  "license": "MIT",
+  "icon": "assets/stellar-core/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.stellar.core.StellarCore"
+    ]
+  },
+  "mixins": [
+    "stellar-core.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": ">=0.92.0"
+  },
+  "recommends": {
+    "sodium": ">=0.5.0",
+    "iris": ">=1.6.0",
+    "lithium": ">=0.11.0"
+  },
+  "breaks": {
+    "optifine": "*"
+  },
+  "custom": {
+    "stellar-core:config": {
+      "entityDistance": 40.0,
+      "maxParticles": 300,
+      "chunkDistanceScale": 0.8,
+      "lodDistances": [64, 128, 256],
+      "redstoneFreezeRadius": 128,
+      "entityFreezeRadius": 64
+    }
+  }
+}
