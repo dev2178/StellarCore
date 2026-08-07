@@ -34,7 +34,7 @@ public abstract class WorldRendererMixin {
 
     @Shadow
     @Final
-    // private List<WorldRenderer.ChunkInfo> chunkInfos; // 由 Mixin 访问，编译时注释
+    // // 已移除对私有类 ChunkInfo 的访问 // 由 Mixin 访问，编译时注释
 
     @Shadow
     private ClientWorld world;
