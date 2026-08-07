@@ -34,9 +34,6 @@ public abstract class WorldRendererMixin {
 
 
     @Shadow
-    private ClientWorld world;
-
-    @Shadow
     private Frustum frustum;
 
     @Shadow
